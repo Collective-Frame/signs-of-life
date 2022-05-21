@@ -1,7 +1,6 @@
 import React from "react";
 import type { AppProps } from "next/app";
 import { ChainId, ThirdwebProvider } from "@thirdweb-dev/react";
-import ThirdwebGuideFooter from "../components/ThirdwebGuideFooter";
 import ThirdwebGuideOverlay from "../components/ThirdwebGuideOverlay";
 import "./styles/globals.css";
 import Head from "next/head";
@@ -19,7 +18,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         setShow={setShowGuideOverlay}
       />
       <Head>
-        <title>Signature Based Minting with Thirdweb and Next.js</title>
+        <title>Signs of Life</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
@@ -31,7 +30,6 @@ function MyApp({ Component, pageProps }: AppProps) {
         />
       </Head>
       <Component {...pageProps} />
-      <ThirdwebGuideFooter onLearnMore={() => setShowGuideOverlay(true)} />
     </ThirdwebProvider>
   );
 }

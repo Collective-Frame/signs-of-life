@@ -149,7 +149,7 @@ const Home: NextPage = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img src={`/logo.png`} alt="Thirdweb Logo" width={135} />
+              <img src={`/signsoflife.svg`} alt="Signs of Life Logo" width={135} />
             </a>
           </div>
         </div>
