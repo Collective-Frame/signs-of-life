@@ -12,6 +12,8 @@ import {
 import { ChainId, NFTMetadataOwner, ThirdwebSDK } from "@thirdweb-dev/sdk";
 import type { NextPage } from "next";
 import { useEffect, useRef, useState } from "react";
+import Image from 'next/image'
+import { Box, Input, Stack } from "@chakra-ui/react";
 
 const Home: NextPage = () => {
   // Helpful thirdweb hooks to connect and manage the wallet from metamask.
@@ -111,7 +113,7 @@ const Home: NextPage = () => {
       // Grab the JSON from the response
       const json = await signedPayloadReq.json();
 
-      console.log("Json:", json);
+      console.log("Signed payload JSON:", json);
 
       // If the request failed, we'll show an error.
       if (!signedPayloadReq.ok) {
@@ -145,11 +147,11 @@ const Home: NextPage = () => {
         <div className={styles.left}>
           <div>
             <a
-              href="https://thirdweb.com/"
+              href="https://signs-of-life.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img src={`/signsoflife.svg`} alt="Signs of Life Logo" width={135} />
+              <Image src={`/signsoflife.svg`} alt="Signs of Life Logo" height={100} width={200} />
             </a>
           </div>
         </div>
@@ -163,9 +165,9 @@ const Home: NextPage = () => {
                 Disconnect Wallet
               </a>
               <p style={{ marginLeft: 8, marginRight: 8, color: "grey" }}>|</p>
-              <p>
+              <Box textStyle={"headerP"}>
                 {address.slice(0, 6).concat("...").concat(address.slice(-4))}
-              </p>
+              </Box>
             </>
           ) : (
             <a
@@ -178,66 +180,60 @@ const Home: NextPage = () => {
         </div>
       </div>
 
-      {/* Content */}
       <div className={styles.container}>
-        {/* Top Section */}
-        <h1 className={styles.h1}>Signature-Based Minting</h1>
-        <p className={styles.explain}>
-          Signature-based minting with{" "}
-          <b>
-            {" "}
-            <a
-              href="https://thirdweb.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className={styles.purple}
-            >
-              thirdweb
-            </a>
-          </b>{" "}
-          + Next.JS to create a community-made NFT collection with restrictions.
-        </p>
+        <Box textStyle='h2' py={2}>Mint NFTs for Research</Box>
+        <Box textStyle='explain' py={2}>
+          Community-minted NFTs in exchange for annotating peer reviews of reproducible research
+        </Box>
 
-        <p>
-          Hint: We only give out signatures if your NFT name is a cool{" "}
-          <b>animal name</b>! 😉
-        </p>
+        <Box pb={8}>
+          Note: see instructions in our{" "}
+          <a href="#">Github Repository</a>{" "}
+          and examples to earn your NFT signature and mint your NFT.
+        </Box>
 
         <hr className={styles.divider} />
 
-        <div className={styles.collectionContainer}>
-          <h2 className={styles.ourCollection}>
+        <Stack spacing={4} py={8}>
+          <Box textStyle={"title"}>
             Mint your own NFT into the collection:
-          </h2>
+          </Box>
 
-          <input
+          <Input
             type="text"
-            placeholder="Name of your NFT"
-            className={styles.textInput}
+            variant="outline"
+            placeholder="Input your NFT Minting Code"
             maxLength={26}
             onChange={(e) => setNftName(e.target.value)}
           />
 
-          {file ? (
-            <img
-              src={URL.createObjectURL(file)}
-              style={{ cursor: "pointer", maxHeight: 250, borderRadius: 8 }}
-              onClick={() => setFile(undefined)}
-            />
-          ) : (
-            <div
-              className={styles.imageInput}
-              onClick={uploadFile}
-              onDragOver={(e) => e.preventDefault()}
-              onDrop={(e) => {
-                e.preventDefault();
-                setFile(e.dataTransfer.files[0]);
-              }}
-            >
-              Drag and drop an image here to upload it!
-            </div>
-          )}
-        </div>
+          <Box>
+
+            {file ? (
+              <Image
+                className={styles.imageUpload}
+                src={URL.createObjectURL(file)}
+                onClick={() => setFile(undefined)}
+                width={250}
+                height={250}
+                alt="Uploaded file"
+              />
+            ) : (
+              <div
+                className={styles.imageInput}
+                onClick={uploadFile}
+                onDragOver={(e) => e.preventDefault()}
+                onDrop={(e) => {
+                  e.preventDefault();
+                  setFile(e.dataTransfer.files[0]);
+                }}
+              >
+                Drag and drop an image here to upload it!
+              </div>
+            )}
+          </Box>
+        </Stack>
+        
         <input
           type="file"
           accept="image/png, image/gif, image/jpeg"
