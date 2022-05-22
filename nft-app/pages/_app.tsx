@@ -33,15 +33,18 @@ const theme = extendTheme({
       lineHeight: '78px',
       letterSpacing: '0em',
     },
-    headerP: {
-      color: '#e6e6e6',
+    title: {
+      fontSize: ['1.5rem', '1.6rem'],
     },
     explain: {
       fontSize: ['1.25rem', '1.3rem'],
     },
-    title: {
-      fontSize: ['1.5rem', '1.6rem'],
-    }
+    bodyP: {
+      fontSize: ['1.125rem', '1.2rem'],
+    },
+    headerP: {
+      color: '#e6e6e6',
+    },
   }, 
   fonts: {
     heading: "Roboto",

@@ -187,32 +187,46 @@ const Home: NextPage = () => {
       </div>
 
       <div className={styles.container}>
-        <Box textStyle="h2" py={2}>
-          Mint NFTs for Research
+        <Box textStyle="h2" pb={2} pt={8}>
+          Mint NFTs from Research
         </Box>
         <Box textStyle="explain" py={2}>
           Community-minted NFTs in exchange for semantic literature reviews
         </Box>
 
         <Box pb={8}>
-          Note: see instructions in our{" "}
-          <Link color="teal.500" href="https://github.com/Collective-Frame/signs-of-life">
-            Github Repository <ExternalLinkIcon mb='0.25rem' />
+          Note: see instructions and examples in our{" "}
+          <Link
+            color="teal.500"
+            href="https://github.com/Collective-Frame/signs-of-life"
+          >
+            Github Repository <ExternalLinkIcon mb="0.25rem" />
           </Link>{" "}
-          and examples to earn your NFT signature and mint your NFTs.
+          to earn your NFT signature and mint your NFTs.
         </Box>
 
         <hr className={styles.divider} />
 
         <Stack spacing={4} py={8}>
+          <Box textStyle="explain" py={0}>
+            This week's research question: <br /> 
+          </Box>
           <Box textStyle={"title"}>
+            Is Aging is a Controllable Process that can be Slowed & Reversed?
+          </Box>
+
+          <Box textStyle="explain" pb={4}>
             Mint your own NFT into the{" "}
             {
-              <Link color="teal.500" href="https://mumbai.polygonscan.com/address/0xEA08a02bc6Bf07Ad117e0BA569C948525f2BcCA0" isExternal>
-                collection <ExternalLinkIcon mb='0.4rem' />
+              <Link
+                color="teal.500"
+                href="https://mumbai.polygonscan.com/address/0xEA08a02bc6Bf07Ad117e0BA569C948525f2BcCA0"
+                isExternal
+              >
+                collection <ExternalLinkIcon mb="0.4rem" />
               </Link>
             }
-            :
+            .
           </Box>
 
           <Input
@@ -243,7 +257,7 @@ const Home: NextPage = () => {
                   setFile(e.dataTransfer.files[0]);
                 }}
               >
-                Drag and drop an image here to upload it!
+                Drag and drop an screenshot of your evidence graph here!
               </div>
             )}
           </Box>
