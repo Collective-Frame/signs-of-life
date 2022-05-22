@@ -1,0 +1,180 @@
+{
+  "collections": {},
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "localeDateOrder": "mdy",
+    "options": {
+      "exportFileData": false,
+      "exportNotes": true,
+      "keepUpdated": true
+    },
+    "preferences": {
+      "DOIandURL": "both",
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "autoPinDelay": 0,
+      "automaticTags": true,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": false,
+      "biblatexExtractEprint": true,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheFlushInterval": 5,
+      "charmap": "",
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "[auth:lower][year][shorttitle3_3]",
+      "citekeyFormatBackup": "",
+      "citekeySearch": true,
+      "csquotes": "",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCSL": true,
+      "extraMergeCitekeys": true,
+      "extraMergeTeX": true,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importSentenceCase": "on+guess",
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "jieba": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "parseParticles": true,
+      "patchDates": "",
+      "platform": "mac",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "scrubDatabase": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "testing": false,
+      "verbatimFields": "url,doi,file,eprint,verba,verbb,verbc,groups",
+      "warnBulkModify": 10,
+      "warnTitleCased": false,
+      "workers": 1
+    }
+  },
+  "items": [
+    {
+      "DOI": "10.1080/10409238.2019.1570075",
+      "ISSN": "1040-9238, 1549-7798",
+      "accessDate": "2022-04-23T06:40:42Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T06:42:17Z",
+          "dateModified": "2022-04-23T07:53:48Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/PGHACXSJ/Kane_Sinclair_2019_Epigenetic changes during aging and their reprogramming potential.pdf",
+          "relations": [],
+          "tags": [
+            {
+              "tag": "_tablet"
+            }
+          ],
+          "title": "Kane_Sinclair_2019_Epigenetic changes during aging and their reprogramming potential.pdf",
+          "uri": "http://zotero.org/users/6482241/items/PGHACXSJ"
+        }
+      ],
+      "citationKey": "kane2019EpigeneticChangesAging",
+      "citekey": "kane2019EpigeneticChangesAging",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alice E.",
+          "lastName": "Kane"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David A.",
+          "lastName": "Sinclair"
+        }
+      ],
+      "date": "2019-01-02",
+      "dateAdded": "2022-04-23T06:40:42Z",
+      "dateModified": "2022-04-23T07:53:48Z",
+      "issue": "1",
+      "itemID": 1063,
+      "itemKey": "794UI369",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Critical Reviews in Biochemistry and Molecular Biology",
+      "key": "794UI369",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [
+        {
+          "dateAdded": "2022-05-22T06:36:19Z",
+          "dateModified": "2022-05-22T06:36:19Z",
+          "itemType": "note",
+          "key": "A93DEKF4",
+          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%2C%22type%22%3A%22article-journal%22%2C%22container-title%22%3A%22Critical%20Reviews%20in%20Biochemistry%20and%20Molecular%20Biology%22%2C%22DOI%22%3A%2210.1080%2F10409238.2019.1570075%22%2C%22ISSN%22%3A%221040-9238%2C%201549-7798%22%2C%22issue%22%3A%221%22%2C%22journalAbbreviation%22%3A%22Critical%20Reviews%20in%20Biochemistry%20and%20Molecular%20Biology%22%2C%22language%22%3A%22en%22%2C%22page%22%3A%2261-83%22%2C%22source%22%3A%22DOI.org%20(Crossref)%22%2C%22title%22%3A%22Epigenetic%20changes%20during%20aging%20and%20their%20reprogramming%20potential%22%2C%22URL%22%3A%22https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Ffull%2F10.1080%2F10409238.2019.1570075%22%2C%22volume%22%3A%2254%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Kane%22%2C%22given%22%3A%22Alice%20E.%22%7D%2C%7B%22family%22%3A%22Sinclair%22%2C%22given%22%3A%22David%20A.%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222022%22%2C4%2C22%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222019%22%2C1%2C2%5D%5D%7D%2C%22citation-key%22%3A%22kane2019EpigeneticChangesAging%22%7D%7D%5D\" data-schema-version=\"8\"><h1>Annotations<br/>(5/21/2022, 11:36:19 PM)</h1>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2FPGHACXSJ%22%2C%22annotationKey%22%3A%22YHK6AC84%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B155.251%2C429.276%2C498.621%2C440.436%5D%2C%5B108.001%2C415.276%2C429.711%2C426.436%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%5D%2C%22locator%22%3A%221%22%7D%7D\">“Excitingly, new studies show that age-related epigenetic changes can be reversed with interventions such as cyclic expression of the Yamanaka reprogramming factors.”</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%5D%2C%22locator%22%3A%221%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Kane and Sinclair, 2019, p. 1</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2FPGHACXSJ%22%2C%22annotationKey%22%3A%22S2GEIJK4%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2214%22%2C%22position%22%3A%7B%22pageIndex%22%3A13%2C%22rects%22%3A%5B%5B445.614%2C195.416%2C520.604%2C206.576%5D%2C%5B150.004%2C181.416%2C514.014%2C192.576%5D%2C%5B150.004%2C167.416%2C501.224%2C178.576%5D%2C%5B150.004%2C153.416%2C376.374%2C164.576%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%5D%2C%22locator%22%3A%2214%22%7D%7D\">“Calorie restriction, small molecules, and the over-expression of epigenetic regulators such as SIRT1 have been effective at slowing, and even reversing, epigenetic changes and physical decline during aging (Oberdoerffer et al. 2008; Field and Adams 2017).”</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%5D%2C%22locator%22%3A%2214%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Kane and Sinclair, 2019, p. 14</span>)</span> from Hebbia (5/10/22)<br><br>Is aging is a controllable process that can be slowed &amp; reversed?</p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2FPGHACXSJ%22%2C%22annotationKey%22%3A%22YHJCR37B%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2216%22%2C%22position%22%3A%7B%22pageIndex%22%3A15%2C%22rects%22%3A%5B%5B150%2C337.42%2C484.31%2C348.58%5D%2C%5B150%2C323.42%2C474.99%2C334.58%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%5D%2C%22locator%22%3A%2216%22%7D%7D\">“In cells, molecular markers of aging can apparently be slowed and even reversed by reprogramming (Table 2) (Mahmoudi and Brunet 2012; Rando and Chang 2012).”</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%5D%2C%22locator%22%3A%2216%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Kane and Sinclair, 2019, p. 16</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2FPGHACXSJ%22%2C%22annotationKey%22%3A%22R9R9UCS6%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2217%22%2C%22position%22%3A%7B%22pageIndex%22%3A16%2C%22rects%22%3A%5B%5B324.26%2C355.416%2C513.99%2C366.576%5D%2C%5B150%2C341.416%2C502.21%2C352.576%5D%2C%5B150%2C327.416%2C506.88%2C338.576%5D%2C%5B150%2C313.416%2C501.96%2C324.576%5D%2C%5B150%2C299.416%2C264.97%2C310.576%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%5D%2C%22locator%22%3A%2217%22%7D%7D\">“It is becoming apparent, however, that there are tissue, cell and even loci-specific differences in epigenetic aging within organisms. New technologies such as single-cell analysis (Cheung et al. 2018) and improved visualization systems (Ren et al. 2017) will increase our understanding of specific, rather than global, epigenetic changes with age.”</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%5D%2C%22locator%22%3A%2217%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Kane and Sinclair, 2019, p. 17</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2FPGHACXSJ%22%2C%22annotationKey%22%3A%22G2U3GIMN%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2234%22%2C%22position%22%3A%7B%22pageIndex%22%3A33%2C%22rects%22%3A%5B%5B422.278%2C496.78%2C516.558%2C507.94%5D%2C%5B149.998%2C482.78%2C521.598%2C493.94%5D%2C%5B149.998%2C468.78%2C231.648%2C479.94%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%5D%2C%22locator%22%3A%2234%22%7D%7D\">“Interventions that delay or prevent aging can act at each of these stages such as calorie restriction, which prevents the aging process at A2.”</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F794UI369%22%5D%2C%22locator%22%3A%2234%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Kane and Sinclair, 2019, p. 34</span>)</span></p></div>",
+          "parentItem": "794UI369",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/users/6482241/items/A93DEKF4",
+          "version": 2988
+        }
+      ],
+      "pages": "61-83",
+      "publicationTitle": "Critical Reviews in Biochemistry and Molecular Biology",
+      "relations": [],
+      "select": "zotero://select/library/items/794UI369",
+      "tags": [
+        {
+          "tag": "_tablet"
+        }
+      ],
+      "title": "Epigenetic changes during aging and their reprogramming potential",
+      "uri": "http://zotero.org/users/6482241/items/794UI369",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/10409238.2019.1570075",
+      "version": 2953,
+      "volume": "54"
+    }
+  ],
+  "version": {
+    "bbt": "6.7.1",
+    "zotero": "6.0.8-beta.4+1e3959020"
+  }
+}

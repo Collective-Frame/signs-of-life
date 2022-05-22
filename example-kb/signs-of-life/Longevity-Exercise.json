@@ -1,0 +1,1231 @@
+{
+  "collections": {},
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "localeDateOrder": "mdy",
+    "options": {
+      "exportFileData": false,
+      "exportNotes": true,
+      "keepUpdated": false
+    },
+    "preferences": {
+      "DOIandURL": "both",
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "autoPinDelay": 0,
+      "automaticTags": true,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": false,
+      "biblatexExtractEprint": true,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheFlushInterval": 5,
+      "charmap": "",
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "[auth:lower][year][shorttitle3_3]",
+      "citekeyFormatBackup": "",
+      "citekeySearch": true,
+      "csquotes": "",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCSL": true,
+      "extraMergeCitekeys": true,
+      "extraMergeTeX": true,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importSentenceCase": "on+guess",
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "jieba": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "parseParticles": true,
+      "patchDates": "",
+      "platform": "mac",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "scrubDatabase": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "testing": false,
+      "verbatimFields": "url,doi,file,eprint,verba,verbb,verbc,groups",
+      "warnBulkModify": 10,
+      "warnTitleCased": false,
+      "workers": 1
+    }
+  },
+  "items": [
+    {
+      "ISSN": "0026-6620",
+      "abstractNote": "Homo sapiens are evolutionarily adapted to be very physically active throughout life, and thus habitual physical activity (PA) is essential for well-being and longevity. Never the less, middle-aged and older individuals engaging in excessive strenuous endurance exercise appear to be at increased risk for a variety of adverse cardiovascular (CV) effects including atrial fibrillation, myocardial fibrosis, and coronary atherosclerosis. An emerging body of evidence indicates U-shaped or reverse J-shaped curves whereby low doses and moderate doses of PA significantly reduce long-term risks for both total mortality and CV mortality, however, at very high doses of chronic strenuous exercise much of the protection against early mortality and CV disease is lost. The optimal dose, or what we term 'Goldilocks Zone,' of PA may be: at least 150 minutes per week of moderate-intensity aerobic exercise or 75 minutes per week of vigorous-intensity aerobic activity, but not more than four to five cumulative hours per week of vigorous (heart-pounding, sweatproducing) exercise, especially for those over 45 years of age. It is also important to take at least one day per week off from vigorous exercise. There appears to be no concerns about an upper threshold for safety for leisure-time low-to-moderate intensity activities such as walking at a comfortable pace, housework, gardening, etc. After every 30 consecutive minutes spent sitting, stand up and move, ideally walking briskly for about five minutes.",
+      "attachments": [
+        {
+          "accessDate": "2022-04-20T20:52:00Z",
+          "charset": "",
+          "contentType": "text/html",
+          "dateAdded": "2022-05-21T22:33:04Z",
+          "dateModified": "2022-05-21T22:33:04Z",
+          "itemType": "attachment",
+          "key": "7L3REZU2",
+          "linkMode": "linked_url",
+          "parentItem": "U44RDUDI",
+          "relations": {},
+          "select": "zotero://select/groups/4696061/items/7L3REZU2",
+          "tags": [],
+          "title": "PubMed Central Link",
+          "uri": "http://zotero.org/groups/4696061/items/7L3REZU2",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6139866/",
+          "version": 24
+        },
+        {
+          "accessDate": "2022-04-20T20:48:14Z",
+          "charset": "",
+          "contentType": "text/html",
+          "dateAdded": "2022-05-21T22:33:04Z",
+          "dateModified": "2022-05-21T22:33:04Z",
+          "itemType": "attachment",
+          "key": "GY26KBCT",
+          "linkMode": "linked_url",
+          "parentItem": "U44RDUDI",
+          "relations": {},
+          "select": "zotero://select/groups/4696061/items/GY26KBCT",
+          "tags": [],
+          "title": "PubMed entry",
+          "uri": "http://zotero.org/groups/4696061/items/GY26KBCT",
+          "url": "http://www.ncbi.nlm.nih.gov/pubmed/30228692",
+          "version": 24
+        }
+      ],
+      "citationKey": "okeefe2018GoldilocksZoneExercise",
+      "citekey": "okeefe2018GoldilocksZoneExercise",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "James H.",
+          "lastName": "O'Keefe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Evan L.",
+          "lastName": "O'Keefe"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Carl J.",
+          "lastName": "Lavie"
+        }
+      ],
+      "date": "2018 Mar-Apr",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "extra": "tex.ids= okeefe2018GoldilocksZoneExercised\nPMCID: PMC6139866\nPMID: 30228692",
+      "issue": "2",
+      "itemID": 1773,
+      "itemKey": "U44RDUDI",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Mo Med",
+      "key": "U44RDUDI",
+      "language": "eng",
+      "libraryCatalog": "PubMed",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "98-105",
+      "publicationTitle": "Missouri Medicine",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/U44RDUDI",
+      "shortTitle": "The Goldilocks Zone for Exercise",
+      "tags": [
+        {
+          "tag": "_tablet"
+        },
+        {
+          "tag": "Adult",
+          "type": 1
+        },
+        {
+          "tag": "Aged",
+          "type": 1
+        },
+        {
+          "tag": "Cardiovascular Diseases",
+          "type": 1
+        },
+        {
+          "tag": "citedBy: Siim Land"
+        },
+        {
+          "tag": "Exercise",
+          "type": 1
+        },
+        {
+          "tag": "Female",
+          "type": 1
+        },
+        {
+          "tag": "Health Behavior",
+          "type": 1
+        },
+        {
+          "tag": "Humans",
+          "type": 1
+        },
+        {
+          "tag": "Leisure Activities",
+          "type": 1
+        },
+        {
+          "tag": "Male",
+          "type": 1
+        },
+        {
+          "tag": "Middle Aged",
+          "type": 1
+        },
+        {
+          "tag": "Risk Factors",
+          "type": 1
+        },
+        {
+          "tag": "Time Factors",
+          "type": 1
+        }
+      ],
+      "title": "The Goldilocks Zone for Exercise: Not Too Little, Not Too Much",
+      "uri": "http://zotero.org/groups/4696061/items/U44RDUDI",
+      "version": 24,
+      "volume": "115"
+    },
+    {
+      "abstractNote": "The science behind the best longevity regime in the world, the Do Not Age protocol.",
+      "accessDate": "2022-04-24T08:09:41Z",
+      "attachments": [],
+      "citationKey": "NoNotAgeScienceExercise",
+      "citekey": "NoNotAgeScienceExercise",
+      "creators": [],
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "itemID": 1776,
+      "itemKey": "BYF979IG",
+      "itemType": "blogPost",
+      "key": "BYF979IG",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [
+        {
+          "dateAdded": "2022-05-21T22:33:04Z",
+          "dateModified": "2022-05-21T22:33:04Z",
+          "itemType": "note",
+          "key": "LHMB94CM",
+          "note": "<div data-schema-version=\"8\"><blockquote>\n<p>Regular exercise reduces the chance of an early death. Exercise helps with quality of life too, preventing chronic diseases, depression and frailty. (1)(2)(3) Exercise can boost your NAD levels, increase the size of your brain and in turn, boost our memory. (4)(5) It seems that interval training has superior health benefits to other types of exercise. (6) (1) ,&nbsp;(2). (3),&nbsp;(4) ,&nbsp;(5), (6)</p>\n</blockquote>\n<p><span style=\"color: rgb(29, 29, 29)\"><span style=\"background-color: transparent\"><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1402378/\" rel=\"noopener noreferrer nofollow\">(1)</a></span></span>&nbsp;,&nbsp;<span style=\"color: rgb(29, 29, 29)\"><span style=\"background-color: rgb(250, 250, 250)\"><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3674785/\" rel=\"noopener noreferrer nofollow\">(2).&nbsp;</a></span><span style=\"background-color: transparent\"><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4712448/\" rel=\"noopener noreferrer nofollow\">(3)</a></span></span>,&nbsp;<span style=\"color: rgb(29, 29, 29)\"><span style=\"background-color: transparent\"><a href=\"https://www.pnas.org/content/108/7/3017.abstract?sid=68cb95f7-9654-4717-a9c5-14a0d7338c70\" rel=\"noopener noreferrer nofollow\">(4)</a></span></span>&nbsp;,&nbsp;<span style=\"color: rgb(29, 29, 29)\"><span style=\"background-color: transparent\"><a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6577427/\" rel=\"noopener noreferrer nofollow\">(5)</a></span></span>,<span style=\"color: rgb(29, 29, 29)\"><span style=\"background-color: transparent\"><a href=\"https://www.cell.com/cell-metabolism/fulltext/S1550-4131(17)30099-2\" rel=\"noopener noreferrer nofollow\">&nbsp;(6)</a></span></span>&nbsp;</p>\n</div>",
+          "parentItem": "BYF979IG",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/groups/4696061/items/LHMB94CM",
+          "version": 24
+        }
+      ],
+      "publicationTitle": "DoNotAge",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/BYF979IG",
+      "tags": [],
+      "title": "NoNotAge: Science of Exercise",
+      "uri": "http://zotero.org/groups/4696061/items/BYF979IG",
+      "url": "https://donotage.org/science/",
+      "version": 24
+    },
+    {
+      "DOI": "10.1503/cmaj.051351",
+      "ISSN": "0820-3946",
+      "abstractNote": "The primary purpose of this narrative review was to evaluate the current literature and to provide further insight into the role physical inactivity plays in the development of chronic disease and premature death. We confirm that there is irrefutable evidence of the effectiveness of regular physical activity in the primary and secondary prevention of several chronic diseases (e.g., cardiovascular disease, diabetes, cancer, hypertension, obesity, depression and osteoporosis) and premature death. We also reveal that the current Health Canada physical activity guidelines are sufficient to elicit health benefits, especially in previously sedentary people. There appears to be a linear relation between physical activity and health status, such that a further increase in physical activity and fitness will lead to additional improvements in health status.",
+      "accessDate": "2022-04-24T08:10:18Z",
+      "attachments": [
+        {
+          "accessDate": "2022-04-24T08:10:18Z",
+          "charset": "",
+          "contentType": "text/html",
+          "dateAdded": "2022-05-21T22:33:04Z",
+          "dateModified": "2022-05-21T22:33:04Z",
+          "itemType": "attachment",
+          "key": "GXGHUYNY",
+          "linkMode": "linked_url",
+          "parentItem": "FGYCSSRT",
+          "relations": {},
+          "select": "zotero://select/groups/4696061/items/GXGHUYNY",
+          "tags": [],
+          "title": "PubMed Central Link",
+          "uri": "http://zotero.org/groups/4696061/items/GXGHUYNY",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1402378/",
+          "version": 24
+        }
+      ],
+      "citationKey": "warburton2006HealthBenefitsPhysical",
+      "citekey": "warburton2006HealthBenefitsPhysical",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Darren E.R.",
+          "lastName": "Warburton"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Crystal Whitney",
+          "lastName": "Nicol"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shannon S.D.",
+          "lastName": "Bredin"
+        }
+      ],
+      "date": "2006-3-14",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "extra": "PMID: 16534088\nPMCID: PMC1402378",
+      "issue": "6",
+      "itemID": 1778,
+      "itemKey": "FGYCSSRT",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "CMAJ",
+      "key": "FGYCSSRT",
+      "libraryCatalog": "PubMed Central",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "801-809",
+      "publicationTitle": "CMAJ : Canadian Medical Association Journal",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/FGYCSSRT",
+      "shortTitle": "Health benefits of physical activity",
+      "tags": [
+        {
+          "tag": "_tablet"
+        },
+        {
+          "tag": "citedBy: DoNotAge"
+        }
+      ],
+      "title": "Health benefits of physical activity: the evidence",
+      "uri": "http://zotero.org/groups/4696061/items/FGYCSSRT",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1402378/",
+      "version": 24,
+      "volume": "174"
+    },
+    {
+      "DOI": "10.1249/01.FIT.0000416000.09526.eb",
+      "ISSN": "1091-5397",
+      "abstractNote": "Depression is a common disorder that is associated with compromised quality of life, increased health care costs, and greater risk for a variety of medical conditions, particularly coronary heart disease. This review examines methods for assessing depression and discusses current treatment approaches. Traditional treatments include psychotherapy and antidepressant medications, but such treatments are not effective for all patients and alternative approaches have recently received increased attention, especially the use of aerobic exercise. This review examines evidence that exercise is effective in improving depressive symptoms among patients with major depression and offers practical suggestions for helping patients initiate and maintain exercise in their daily lives.",
+      "accessDate": "2022-04-24T08:10:28Z",
+      "attachments": [
+        {
+          "accessDate": "2022-04-24T08:10:29Z",
+          "charset": "",
+          "contentType": "text/html",
+          "dateAdded": "2022-05-21T22:33:04Z",
+          "dateModified": "2022-05-21T22:33:04Z",
+          "itemType": "attachment",
+          "key": "MX8GFZCU",
+          "linkMode": "linked_url",
+          "parentItem": "WUN8C354",
+          "relations": {},
+          "select": "zotero://select/groups/4696061/items/MX8GFZCU",
+          "tags": [],
+          "title": "PubMed Central Link",
+          "uri": "http://zotero.org/groups/4696061/items/MX8GFZCU",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3674785/",
+          "version": 24
+        }
+      ],
+      "citationKey": "blumenthal2012ExerciseViableTreatment",
+      "citekey": "blumenthal2012ExerciseViableTreatment",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "James A.",
+          "lastName": "Blumenthal"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Patrick J.",
+          "lastName": "Smith"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benson M.",
+          "lastName": "Hoffman"
+        }
+      ],
+      "date": "2012",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "extra": "PMID: 23750100\nPMCID: PMC3674785",
+      "issue": "4",
+      "itemID": 1780,
+      "itemKey": "WUN8C354",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "ACSMs Health Fit J",
+      "key": "WUN8C354",
+      "libraryCatalog": "PubMed Central",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "14-21",
+      "publicationTitle": "ACSM's health & fitness journal",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/WUN8C354",
+      "tags": [
+        {
+          "tag": "_tablet"
+        },
+        {
+          "tag": "citedBy: DoNotAge"
+        }
+      ],
+      "title": "Is Exercise a Viable Treatment for Depression?",
+      "uri": "http://zotero.org/groups/4696061/items/WUN8C354",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3674785/",
+      "version": 24,
+      "volume": "16"
+    },
+    {
+      "DOI": "10.1159/000382065",
+      "ISSN": "1664-2147",
+      "abstractNote": "Longitudinal studies demonstrate that regular physical exercise extends longevity and reduces the risk of physical disability. Decline in physical activity with aging is associated with a decrease in exercise capacity that predisposes to frailty. Frailty syndrome includes lowered activity level, poor exercise tolerance, and loss of lean body and muscle mass. Poor exercise tolerance is related to aerobic endurance. Aerobic endurance training can significantly improve peak oxygen consumption by ~10–15%. Resistance training is the best way to increase muscle strength and mass. Although the increase in muscle mass in response to resistance training may be attenuated in frail older adults, resistance training can significantly improve muscle strength, particularly in institutionalized patients by ~110%. Because both aerobic and resistance training target specific components of frailty, studies combining aerobic and resistance training provide the most promising evidence with respect to successfully treating frailty. At the molecular level, exercise reduces frailty by decreasing muscle inflammation, increasing anabolism, and increasing muscle protein synthesis. More studies are needed to determine which exercises are best suited, most effective, and safe for this population. Based on the available studies, an individualized multicomponent exercise program that includes aerobic activity, strength exercises, and flexibility is recommended to treat frailty.",
+      "accessDate": "2022-04-24T08:10:30Z",
+      "attachments": [
+        {
+          "accessDate": "2022-04-24T08:10:31Z",
+          "charset": "",
+          "contentType": "text/html",
+          "dateAdded": "2022-05-21T22:33:04Z",
+          "dateModified": "2022-05-21T22:33:04Z",
+          "itemType": "attachment",
+          "key": "4P8MXP92",
+          "linkMode": "linked_url",
+          "parentItem": "IVG5CDYC",
+          "relations": {},
+          "select": "zotero://select/groups/4696061/items/4P8MXP92",
+          "tags": [],
+          "title": "PubMed Central Link",
+          "uri": "http://zotero.org/groups/4696061/items/4P8MXP92",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4712448/",
+          "version": 25
+        }
+      ],
+      "citationKey": "aguirre2015PhysicalExerciseTherapy",
+      "citekey": "aguirre2015PhysicalExerciseTherapy",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lina E.",
+          "lastName": "Aguirre"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Dennis T.",
+          "lastName": "Villareal"
+        }
+      ],
+      "date": "2015-11",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "extra": "PMID: 26524568\nPMCID: PMC4712448",
+      "itemID": 1782,
+      "itemKey": "IVG5CDYC",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Nestle Nutr Inst Workshop Ser",
+      "key": "IVG5CDYC",
+      "libraryCatalog": "PubMed Central",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "83-92",
+      "publicationTitle": "Nestle Nutrition Institute workshop series",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/IVG5CDYC",
+      "tags": [
+        {
+          "tag": "_tablet"
+        },
+        {
+          "tag": "citedBy: DoNotAge"
+        }
+      ],
+      "title": "Physical Exercise as Therapy for Frailty",
+      "uri": "http://zotero.org/groups/4696061/items/IVG5CDYC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4712448/",
+      "version": 24,
+      "volume": "83"
+    },
+    {
+      "DOI": "10.1073/pnas.1015950108",
+      "accessDate": "2022-04-24T08:10:33Z",
+      "attachments": [],
+      "citationKey": "erickson2011ExerciseTrainingIncreases",
+      "citekey": "erickson2011ExerciseTrainingIncreases",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kirk I.",
+          "lastName": "Erickson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michelle W.",
+          "lastName": "Voss"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ruchika Shaurya",
+          "lastName": "Prakash"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chandramallika",
+          "lastName": "Basak"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Amanda",
+          "lastName": "Szabo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Laura",
+          "lastName": "Chaddock"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jennifer S.",
+          "lastName": "Kim"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Susie",
+          "lastName": "Heo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Heloisa",
+          "lastName": "Alves"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Siobhan M.",
+          "lastName": "White"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas R.",
+          "lastName": "Wojcicki"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emily",
+          "lastName": "Mailey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Victoria J.",
+          "lastName": "Vieira"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen A.",
+          "lastName": "Martin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Brandt D.",
+          "lastName": "Pence"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jeffrey A.",
+          "lastName": "Woods"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Edward",
+          "lastName": "McAuley"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Arthur F.",
+          "lastName": "Kramer"
+        }
+      ],
+      "date": "2011-02-15",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "extra": "Publisher: Proceedings of the National Academy of Sciences",
+      "issue": "7",
+      "itemID": 1784,
+      "itemKey": "8WG4G3I3",
+      "itemType": "journalArticle",
+      "key": "8WG4G3I3",
+      "libraryCatalog": "pnas.org (Atypon)",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "3017-3022",
+      "publicationTitle": "Proceedings of the National Academy of Sciences",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/8WG4G3I3",
+      "tags": [
+        {
+          "tag": "_tablet"
+        },
+        {
+          "tag": "citedBy: DoNotAge"
+        }
+      ],
+      "title": "Exercise training increases size of hippocampus and improves memory",
+      "uri": "http://zotero.org/groups/4696061/items/8WG4G3I3",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1015950108",
+      "version": 25,
+      "volume": "108"
+    },
+    {
+      "DOI": "10.14814/phy2.14139",
+      "ISSN": "2051-817X",
+      "abstractNote": "Aging decreases skeletal muscle mass and strength, but aerobic and resistance exercise training maintains skeletal muscle function. NAD\n+ is a coenzyme for ATP production and a required substrate for enzymes regulating cellular homeostasis. In skeletal muscle, NAD\n+ is mainly generated by the NAD\n+ salvage pathway in which nicotinamide phosphoribosyltransferase (NAMPT) is rate‐limiting. NAMPT decreases with age in human skeletal muscle, and aerobic exercise training increases NAMPT levels in young men. However, whether distinct modes of exercise training increase NAMPT levels in both young and old people is unknown. We assessed the effects of 12 weeks of aerobic and resistance exercise training on skeletal muscle abundance of NAMPT, nicotinamide riboside kinase 2 (NRK2), and nicotinamide mononucleotide adenylyltransferase (NMNAT) 1 and 3 in young (≤35 years) and older (≥55 years) individuals. NAMPT in skeletal muscle correlated negatively with age (r\n2 = 0.297, P < 0.001, n = 57), and VO\n2peak was the best predictor of NAMPT levels. Moreover, aerobic exercise training increased NAMPT abundance 12% and 28% in young and older individuals, respectively, whereas resistance exercise training increased NAMPT abundance 25% and 30% in young and in older individuals, respectively. None of the other proteins changed with exercise training. In a separate cohort of young and old people, levels of NAMPT, NRK1, and NMNAT1/2 in abdominal subcutaneous adipose tissue were not affected by either age or 6 weeks of high‐intensity interval training. Collectively, exercise training reverses the age‐dependent decline in skeletal muscle NAMPT abundance, and our findings highlight the value of exercise training in ameliorating age‐associated deterioration of skeletal muscle function.",
+      "accessDate": "2022-04-24T08:10:36Z",
+      "attachments": [
+        {
+          "accessDate": "2022-04-24T08:10:37Z",
+          "charset": "",
+          "contentType": "text/html",
+          "dateAdded": "2022-05-21T22:33:04Z",
+          "dateModified": "2022-05-21T22:33:04Z",
+          "itemType": "attachment",
+          "key": "F262JPMI",
+          "linkMode": "linked_url",
+          "parentItem": "22FTG78B",
+          "relations": {},
+          "select": "zotero://select/groups/4696061/items/F262JPMI",
+          "tags": [],
+          "title": "PubMed Central Link",
+          "uri": "http://zotero.org/groups/4696061/items/F262JPMI",
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6577427/",
+          "version": 25
+        }
+      ],
+      "citationKey": "deguia2019AerobicResistanceExercise",
+      "citekey": "deguia2019AerobicResistanceExercise",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Roldan M.",
+          "lastName": "de Guia"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marianne",
+          "lastName": "Agerholm"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas S.",
+          "lastName": "Nielsen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Leslie A.",
+          "lastName": "Consitt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ditte",
+          "lastName": "Søgaard"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jørn W.",
+          "lastName": "Helge"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Steen",
+          "lastName": "Larsen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Josef",
+          "lastName": "Brandauer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Joseph A.",
+          "lastName": "Houmard"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jonas T.",
+          "lastName": "Treebak"
+        }
+      ],
+      "date": "2019-6-17",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "extra": "PMID: 31207144\nPMCID: PMC6577427",
+      "issue": "12",
+      "itemID": 1785,
+      "itemKey": "22FTG78B",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Physiol Rep",
+      "key": "22FTG78B",
+      "libraryCatalog": "PubMed Central",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "e14139",
+      "publicationTitle": "Physiological Reports",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/22FTG78B",
+      "tags": [
+        {
+          "tag": "_tablet"
+        },
+        {
+          "tag": "citedBy: DoNotAge"
+        }
+      ],
+      "title": "Aerobic and resistance exercise training reverses age‐dependent decline in NAD+ salvage capacity in human skeletal muscle",
+      "uri": "http://zotero.org/groups/4696061/items/22FTG78B",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6577427/",
+      "version": 25,
+      "volume": "7"
+    },
+    {
+      "DOI": "10.1016/j.cmet.2017.02.009",
+      "ISSN": "1550-4131",
+      "accessDate": "2022-04-24T08:10:40Z",
+      "attachments": [
+        {
+          "accessDate": "2022-04-24T08:10:40Z",
+          "charset": "",
+          "contentType": "text/html",
+          "dateAdded": "2022-05-21T22:33:04Z",
+          "dateModified": "2022-05-21T22:33:04Z",
+          "itemType": "attachment",
+          "key": "H22Y6VFP",
+          "linkMode": "linked_url",
+          "parentItem": "GM6XVMBS",
+          "relations": {},
+          "select": "zotero://select/groups/4696061/items/H22Y6VFP",
+          "tags": [],
+          "title": "PubMed entry",
+          "uri": "http://zotero.org/groups/4696061/items/H22Y6VFP",
+          "url": "http://www.ncbi.nlm.nih.gov/pubmed/28273480",
+          "version": 25
+        }
+      ],
+      "citationKey": "robinson2017EnhancedProteinTranslation",
+      "citekey": "robinson2017EnhancedProteinTranslation",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Matthew M.",
+          "lastName": "Robinson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Surendra",
+          "lastName": "Dasari"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adam R.",
+          "lastName": "Konopka"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew L.",
+          "lastName": "Johnson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "S.",
+          "lastName": "Manjunatha"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Raul Ruiz",
+          "lastName": "Esponda"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rickey E.",
+          "lastName": "Carter"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ian R.",
+          "lastName": "Lanza"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "K. Sreekumaran",
+          "lastName": "Nair"
+        }
+      ],
+      "date": "2017-03-07",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "extra": "Publisher: Elsevier\nPMID: 28273480",
+      "issue": "3",
+      "itemID": 1787,
+      "itemKey": "GM6XVMBS",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Cell Metabolism",
+      "key": "GM6XVMBS",
+      "language": "English",
+      "libraryCatalog": "www.cell.com",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "581-592",
+      "publicationTitle": "Cell Metabolism",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/GM6XVMBS",
+      "tags": [
+        {
+          "tag": "_tablet"
+        },
+        {
+          "tag": "aging",
+          "type": 1
+        },
+        {
+          "tag": "citedBy: DoNotAge"
+        },
+        {
+          "tag": "exercise",
+          "type": 1
+        },
+        {
+          "tag": "human",
+          "type": 1
+        },
+        {
+          "tag": "insulin clamp",
+          "type": 1
+        },
+        {
+          "tag": "interval",
+          "type": 1
+        },
+        {
+          "tag": "methylation",
+          "type": 1
+        },
+        {
+          "tag": "proteome",
+          "type": 1
+        },
+        {
+          "tag": "skeletal muscle",
+          "type": 1
+        },
+        {
+          "tag": "tracer",
+          "type": 1
+        },
+        {
+          "tag": "transcriptome",
+          "type": 1
+        }
+      ],
+      "title": "Enhanced Protein Translation Underlies Improved Metabolic and Physical Adaptations to Different Exercise Training Modes in Young and Old Humans",
+      "uri": "http://zotero.org/groups/4696061/items/GM6XVMBS",
+      "url": "https://www.cell.com/cell-metabolism/abstract/S1550-4131(17)30099-2",
+      "version": 25,
+      "volume": "25"
+    },
+    {
+      "DOI": "10.1080/07315724.2018.1461146",
+      "ISSN": "0731-5724",
+      "abstractNote": "There is clear evidence that endurance exercise training elicits intramuscular adaptations that can lead to elevations in mitochondrial biogenesis, oxidative capacity, mitochondrial density, and mitochondrial function. Mitochondrial biogenesis is regulated by the activation of the transcriptional coactivator peroxisome proliferator-activated receptor gamma coactivator 1-alpha. This master regulator of mitochondrial biogenesis activates nuclear respiratory factors (NRF-1, NRF-2) and mitochondrial transcription factor A, which enables the expansion of mitochondrial size and transcription of mitochondrial DNA. Pyrroloquinoline quinone (PQQ) has been identified as a novel supplement that is involved in various physiological processes such as redox modulation, cellular energy metabolism, and mitochondrial biogenesis and is a potent antioxidant. Since both exercise and supplemental PQQ have mechanisms associated with mitochondrial biogenesis, it is plausible that a differential additive ergogenic benefit with PQQ can ensue. However, there is a major paucity of research exploring the role of PQQ in conjunction with exercise. In this respect, the purpose of the critical literature review will be to present a comprehensive overview of PQQ and the proposed mechanisms underlying mitochondrial biogenesis. Because exercise can instigate the molecular responses indicative of mitochondrial biogenesis, it is plausible that PQQ and exercise may instigate a synergistic response.Key teaching points • Endurance exercise training enables skeletal muscle adaptations that can induce increases in mitochondrial biogenesis, improve oxidative capacity, mitochondrial density, and mitochondrial function.• Pyrroloquinoline quinone (PQQ) has been identified as a novel supplement that is involved in physiological processes including redox modulation, cellular energy metabolism, mitochondrial biogenesis, and antioxidant potential.• There is emerging evidence to support that PQQ supplementation can upregulate the molecular signaling responses indicative of mitochondrial biogenesis within skeletal muscle.• If both endurance exercise and PQQ supplementation can elicit increases in the molecular responses indicative of mitochondrial biogenesis, it is possible that both PQQ and exercise may instigate a synergistic ergogenic response.• There is a scarcity of research exploring the possible role of PQQ supplementation with concomitant endurance exercise. Therefore, future research is necessary to investigate the ergogenic potential behind PQQ supplementation in conjunction with endurance exercise.",
+      "accessDate": "2022-05-04T22:59:54Z",
+      "attachments": [],
+      "citationKey": "hwang2018MechanismsPyrroloquinolineQuinone",
+      "citekey": "hwang2018MechanismsPyrroloquinolineQuinone",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Paul",
+          "lastName": "Hwang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Darryn S.",
+          "lastName": "Willoughby"
+        }
+      ],
+      "date": "2018-11-17",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "extra": "Publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/07315724.2018.1461146\nPMID: 29714638",
+      "issue": "8",
+      "itemID": 1789,
+      "itemKey": "A7J4TR5V",
+      "itemType": "journalArticle",
+      "key": "A7J4TR5V",
+      "libraryCatalog": "Taylor and Francis+NEJM",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "738-748",
+      "publicationTitle": "Journal of the American College of Nutrition",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/A7J4TR5V",
+      "shortTitle": "Mechanisms Behind Pyrroloquinoline Quinone Supplementation on Skeletal Muscle Mitochondrial Biogenesis",
+      "tags": [
+        {
+          "tag": "CREB",
+          "type": 1
+        },
+        {
+          "tag": "exercise",
+          "type": 1
+        },
+        {
+          "tag": "mitochondria",
+          "type": 1
+        },
+        {
+          "tag": "mtDNA",
+          "type": 1
+        },
+        {
+          "tag": "NRF-1",
+          "type": 1
+        },
+        {
+          "tag": "PGC-1α",
+          "type": 1
+        },
+        {
+          "tag": "PQQ",
+          "type": 1
+        },
+        {
+          "tag": "skeletal muscle",
+          "type": 1
+        },
+        {
+          "tag": "TFAM",
+          "type": 1
+        }
+      ],
+      "title": "Mechanisms Behind Pyrroloquinoline Quinone Supplementation on Skeletal Muscle Mitochondrial Biogenesis: Possible Synergistic Effects with Exercise",
+      "uri": "http://zotero.org/groups/4696061/items/A7J4TR5V",
+      "url": "https://doi.org/10.1080/07315724.2018.1461146",
+      "version": 25,
+      "volume": "37"
+    },
+    {
+      "DOI": "10.1016/j.nut.2021.111266",
+      "ISSN": "0899-9007",
+      "abstractNote": "Objective\nSulforaphane is a phytochemical that is commonly found in broccoli and broccoli sprouts. However, whether chronic sulforaphane ingestion suppresses heavy resistance exercise–induced muscle damage parameters in humans remains unknown. Therefore, this study investigated the effects of oral chronic sulforaphane ingestion on heavy resistance exercise–induced muscle damage parameters.\nMethods\nThe study had a randomized, double-blind, placebo-controlled, cross-over design. Ten healthy young men (age: 22.0 ± 0.3 y; body weight: 62.6 ± 2.4 kg; height: 171.0 ± 0.1 cm) were administered placebo or sulforaphane (30 mg/d) for 4 wk at the first trial, then after a 4-wk washout period, the participants were administered the opposite treatment for 4 wk at the second trial. The participants were subjected to heavy resistance exercise (bench press, 85% of one-repetition maximum for three times with eight repetitions) after each administration, and blood samples were collected before and at 30 min and 24 h after each exercise session.\nResults\nIn this study, 4 wk of sulforaphane intake decreased plasma levels of creatine kinase, especially creatine kinase levels from 30 min to 24 h and baseline to 24 h. Moreover, the change in interleukin-6 levels significantly decreased from baseline to 30 min on prolonged intake of sulforaphane.\nConclusions\nTogether, these findings suggest that the oral chronic intake of sulforaphane suppressed the heavy resistance exercise–induced increase in muscle damage parameter and expression of inflammatory cytokines. The chronic use of sulforaphane may be a novel therapeutic candidate for the prevention of muscle damage in athletes training daily with high-intensity exercise.",
+      "accessDate": "2022-05-07T07:20:44Z",
+      "attachments": [],
+      "citationKey": "sato2021OralChronicSulforaphane",
+      "citekey": "sato2021OralChronicSulforaphane",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Koji",
+          "lastName": "Sato"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hinata",
+          "lastName": "Kihara"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yoka",
+          "lastName": "Kumazawa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Koki",
+          "lastName": "Tatara"
+        }
+      ],
+      "date": "2021-10-01",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "itemID": 1790,
+      "itemKey": "VDBNIIYI",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Nutrition",
+      "key": "VDBNIIYI",
+      "language": "en",
+      "libraryCatalog": "ScienceDirect",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "111266",
+      "publicationTitle": "Nutrition",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/VDBNIIYI",
+      "shortTitle": "Oral chronic sulforaphane effects on heavy resistance exercise",
+      "tags": [
+        {
+          "tag": "Creatine kinase",
+          "type": 1
+        },
+        {
+          "tag": "Cytokine",
+          "type": 1
+        },
+        {
+          "tag": "Exercise",
+          "type": 1
+        },
+        {
+          "tag": "Supplementation",
+          "type": 1
+        },
+        {
+          "tag": "Tissue damage",
+          "type": 1
+        }
+      ],
+      "title": "Oral chronic sulforaphane effects on heavy resistance exercise: Implications for inflammatory and muscle damage parameters in young practitioners",
+      "uri": "http://zotero.org/groups/4696061/items/VDBNIIYI",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0899900721001283",
+      "version": 25,
+      "volume": "90"
+    },
+    {
+      "DOI": "10.14814/phy2.15130",
+      "ISSN": "2051-817X",
+      "abstractNote": "Objective Excessive exercise increases the production of reactive oxygen species in skeletal muscles. Sulforaphane activates nuclear factor erythroid 2-related factor 2 (Nrf2) and induces a protective effect against oxidative stress. In a recent report, sulforaphane intake suppressed exercise-induced oxidative stress and muscle damage in mice. However, the effect of sulforaphane intake on delayed onset muscle soreness after eccentric exercise in humans is unknown. We evaluated the effect of sulforaphane supplement intake in humans regarding the delayed onset muscle soreness (DOMS) after eccentric exercise. Research Methods & Procedures To determine the duration of sulforaphane supplementation, continuous blood sampling was performed and NQO1 mRNA expression levels were analyzed. Sixteen young men were randomly divided into sulforaphane and control groups. The sulforaphane group received sulforaphane supplements. Each group performed six set of five eccentric exercise with the nondominant arm in elbow flexion with 70% maximum voluntary contraction. We assessed muscle soreness in the biceps using the visual analog scale, range of motion (ROM), muscle damage markers, and oxidative stress marker (malondialdehyde; MDA). Results Sulforaphane supplement intake for 2 weeks increased NQO1 mRNA expression in peripheral blood mononuclear cells (PBMCs). Muscle soreness on palpation and ROM were significantly lower 2 days after exercise in the sulforaphane group compared with the control group. Serum MDA showed significantly lower levels 2 days after exercise in the sulforaphane group compared with the control group. Conclusion Our findings suggest that sulforaphane intake from 2 weeks before to 4 days after the exercise increased NQO1, a target gene of Nrf2, and suppressed DOMS after 2 days of eccentric exercise.",
+      "accessDate": "2022-05-07T07:49:22Z",
+      "attachments": [],
+      "citationKey": "komine2021EffectSulforaphaneSupplement",
+      "citekey": "komine2021EffectSulforaphaneSupplement",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Shoichi",
+          "lastName": "Komine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ikuru",
+          "lastName": "Miura"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nao",
+          "lastName": "Miyashita"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sechang",
+          "lastName": "Oh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Katsuyuki",
+          "lastName": "Tokinoya"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Junichi",
+          "lastName": "Shoda"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hajime",
+          "lastName": "Ohmori"
+        }
+      ],
+      "date": "2021",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.14814/phy2.15130",
+      "issue": "24",
+      "itemID": 1791,
+      "itemKey": "SAGKJCPD",
+      "itemType": "journalArticle",
+      "key": "SAGKJCPD",
+      "language": "en",
+      "libraryCatalog": "Wiley Online Library",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "e15130",
+      "publicationTitle": "Physiological Reports",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/SAGKJCPD",
+      "shortTitle": "Effect of a sulforaphane supplement on muscle soreness and damage induced by eccentric exercise in young adults",
+      "tags": [
+        {
+          "tag": "antioxidant supplement",
+          "type": 1
+        },
+        {
+          "tag": "DOMS",
+          "type": 1
+        },
+        {
+          "tag": "MDA",
+          "type": 1
+        },
+        {
+          "tag": "Nrf2",
+          "type": 1
+        },
+        {
+          "tag": "oxidative stress",
+          "type": 1
+        }
+      ],
+      "title": "Effect of a sulforaphane supplement on muscle soreness and damage induced by eccentric exercise in young adults: A pilot study",
+      "uri": "http://zotero.org/groups/4696061/items/SAGKJCPD",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.14814/phy2.15130",
+      "version": 25,
+      "volume": "9"
+    },
+    {
+      "abstractNote": "“We can do zone 2 our entire lives; we can do it safely, and it just yields enormous dividends.” —Peter Attia",
+      "accessDate": "2022-05-10T07:09:57Z",
+      "attachments": [],
+      "citationKey": "2022206ExercisingLongevity",
+      "citekey": "2022206ExercisingLongevity",
+      "creators": [],
+      "date": "2022-05-09T08:45:21+00:00",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "itemID": 1792,
+      "itemKey": "GZBF4R5A",
+      "itemType": "webpage",
+      "key": "GZBF4R5A",
+      "language": "en-US",
+      "libraryID": 2,
+      "notes": [],
+      "publicationTitle": "Peter Attia",
+      "relations": [],
+      "select": "zotero://select/groups/4696061/items/GZBF4R5A",
+      "shortTitle": "#206 - Exercising for longevity",
+      "tags": [],
+      "title": "#206 - Exercising for longevity: strength, stability, zone 2, zone 5, and more",
+      "uri": "http://zotero.org/groups/4696061/items/GZBF4R5A",
+      "url": "https://peterattiamd.com/exercising-for-longevity/",
+      "version": 25
+    },
+    {
+      "DOI": "10.1038/s41576-018-0004-3",
+      "ISSN": "1471-0064",
+      "abstractNote": "Identifying and validating molecular targets of interventions that extend the human health span and lifespan has been difficult, as most clinical biomarkers are not sufficiently representative of the fundamental mechanisms of ageing to serve as their indicators. In a recent breakthrough, biomarkers of ageing based on DNA methylation data have enabled accurate age estimates for any tissue across the entire life course. These ‘epigenetic clocks’ link developmental and maintenance processes to biological ageing, giving rise to a unified theory of life course. Epigenetic biomarkers may help to address long-standing questions in many fields, including the central question: why do we age?",
+      "accessDate": "2022-05-10T17:31:57Z",
+      "attachments": [],
+      "citationKey": "horvath2018DNAMethylationbasedBiomarkers",
+      "citekey": "horvath2018DNAMethylationbasedBiomarkers",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Steve",
+          "lastName": "Horvath"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kenneth",
+          "lastName": "Raj"
+        }
+      ],
+      "date": "2018-06",
+      "dateAdded": "2022-05-21T22:33:04Z",
+      "dateModified": "2022-05-21T22:33:04Z",
+      "extra": "Number: 6\nPublisher: Nature Publishing Group",
+      "issue": "6",
+      "itemID": 1793,
+      "itemKey": "EXUTR2PB",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Nat Rev Genet",
+      "key": "EXUTR2PB",
+      "language": "en",
+      "libraryCatalog": "www.nature.com",
+      "libraryID": 2,
+      "notes": [],
+      "pages": "371-384",
+      "publicationTitle": "Nature Reviews Genetics",
+      "relations": [],
+      "rights": "2018 Macmillan Publishers Ltd., part of Springer Nature",
+      "select": "zotero://select/groups/4696061/items/EXUTR2PB",
+      "tags": [
+        {
+          "tag": "Ageing",
+          "type": 1
+        },
+        {
+          "tag": "Biomarkers",
+          "type": 1
+        },
+        {
+          "tag": "Development",
+          "type": 1
+        },
+        {
+          "tag": "DNA methylation",
+          "type": 1
+        },
+        {
+          "tag": "Epigenomics",
+          "type": 1
+        },
+        {
+          "tag": "Machine learning",
+          "type": 1
+        }
+      ],
+      "title": "DNA methylation-based biomarkers and the epigenetic clock theory of ageing",
+      "uri": "http://zotero.org/groups/4696061/items/EXUTR2PB",
+      "url": "https://www.nature.com/articles/s41576-018-0004-3",
+      "version": 26,
+      "volume": "19"
+    }
+  ],
+  "version": {
+    "bbt": "6.7.1",
+    "zotero": "6.0.8-beta.4+1e3959020"
+  }
+}

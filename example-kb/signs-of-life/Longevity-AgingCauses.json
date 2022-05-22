@@ -1,0 +1,1712 @@
+{
+  "collections": {},
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "localeDateOrder": "mdy",
+    "options": {
+      "exportNotes": true
+    },
+    "preferences": {
+      "DOIandURL": "both",
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "autoPinDelay": 0,
+      "automaticTags": true,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": false,
+      "biblatexExtractEprint": true,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheFlushInterval": 5,
+      "charmap": "",
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "[auth:lower][year][shorttitle3_3]",
+      "citekeyFormatBackup": "",
+      "citekeySearch": true,
+      "csquotes": "",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCSL": true,
+      "extraMergeCitekeys": true,
+      "extraMergeTeX": true,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importSentenceCase": "on+guess",
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "jieba": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "parseParticles": true,
+      "patchDates": "",
+      "platform": "mac",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "scrubDatabase": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "testing": false,
+      "verbatimFields": "url,doi,file,eprint,verba,verbb,verbc,groups",
+      "warnBulkModify": 10,
+      "warnTitleCased": false,
+      "workers": 1
+    }
+  },
+  "items": [
+    {
+      "DOI": "10.1007/s00300-008-0407-2",
+      "ISSN": "1432-2056",
+      "abstractNote": "The age of bowhead whales captured by Native Alaskan hunters in the Bering, Chukchi and Beaufort Seas has been estimated via chemical analyses of the eye lenses, and other techniques. The racemization-age estimates indicate that bowhead whales (Balaena mysticetus) have a lifespan of more than a century. Stone and ivory weapon fragments recovered from bowhead whales hunted in Wainwright and Barrow (Alaska) in 1981, 1992, 1993 and 1997, provided rough but independent assessments of the whales’ longevity; however, their date of manufacture was unknown. Adding further confirmation of these age estimates, this note describes bomb lance fragments recovered recently (2007) and about 30 years ago (1980) from bowhead whales harvested by Eskimo hunters that were “dateable” and likely manufactured between 1879 and 1885.",
+      "accessDate": "2022-04-23T05:36:18Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T05:47:45Z",
+          "dateModified": "2022-04-23T05:47:45Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/I25A2SBZ/“Craig” George_Bockstoce_2008_Two historical weapon fragments as an aid to estimating the longevity and.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "“Craig” George_Bockstoce_2008_Two historical weapon fragments as an aid to estimating the longevity and.pdf",
+          "uri": "http://zotero.org/users/6482241/items/I25A2SBZ"
+        }
+      ],
+      "citationKey": "craiggeorge2008TwoHistoricalWeapon",
+      "citekey": "craiggeorge2008TwoHistoricalWeapon",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "John C.",
+          "lastName": "“Craig” George"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John R.",
+          "lastName": "Bockstoce"
+        }
+      ],
+      "date": "2008-05-01",
+      "dateAdded": "2022-04-23T05:36:18Z",
+      "dateModified": "2022-04-23T05:53:20Z",
+      "issue": "6",
+      "itemID": 904,
+      "itemKey": "3PIF8EF5",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Polar Biol",
+      "key": "3PIF8EF5",
+      "language": "en",
+      "libraryCatalog": "Springer Link",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "751-754",
+      "publicationTitle": "Polar Biology",
+      "relations": [],
+      "select": "zotero://select/library/items/3PIF8EF5",
+      "tags": [
+        {
+          "tag": "Age estimation",
+          "type": 1
+        },
+        {
+          "tag": "Bowhead whale",
+          "type": 1
+        },
+        {
+          "tag": "citedBy: Lifespan Podcast"
+        },
+        {
+          "tag": "Whaling history",
+          "type": 1
+        },
+        {
+          "tag": "Whaling technology",
+          "type": 1
+        },
+        {
+          "tag": "Yankee whaling",
+          "type": 1
+        }
+      ],
+      "title": "Two historical weapon fragments as an aid to estimating the longevity and movements of bowhead whales",
+      "uri": "http://zotero.org/users/6482241/items/3PIF8EF5",
+      "url": "https://doi.org/10.1007/s00300-008-0407-2",
+      "version": 2965,
+      "volume": "31"
+    },
+    {
+      "DOI": "10.1038/nature08221",
+      "ISSN": "1476-4687",
+      "abstractNote": "The antitumour drug rapamycin targets TOR, a kinase that is part of the PI3K–AKT–mTOR cascade, involved in regulating protein translation, cell growth and autophagy. Reducing TOR function is known to extend the life of yeast, worms and flies. Now experiments replicated in three different laboratories demonstrate that rapamycin, fed to male and female mice in a dose that substantially inhibits TOR signalling, can extend their median and maximal lifespan by up to 14%. This life extension was observed in mice fed rapamycin from 270 days of age and also at a late stage in their life, from age 600 days. These findings point to the TOR pathway as a critical point in the control of ageing in mammals and in the pathogenesis of late-life illnesses.",
+      "accessDate": "2022-04-23T05:36:27Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T05:36:31Z",
+          "dateModified": "2022-04-23T05:36:31Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/Y5LR2UJN/Harrison et al_2009_Rapamycin fed late in life extends lifespan in genetically heterogeneous mice.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Harrison et al_2009_Rapamycin fed late in life extends lifespan in genetically heterogeneous mice.pdf",
+          "uri": "http://zotero.org/users/6482241/items/Y5LR2UJN"
+        },
+        {
+          "dateAdded": "2022-04-23T05:36:32Z",
+          "dateModified": "2022-04-23T05:36:32Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/C6GDI56P/nature08221.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/6482241/items/C6GDI56P"
+        }
+      ],
+      "citationKey": "harrison2009RapamycinFedLate",
+      "citekey": "harrison2009RapamycinFedLate",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "David E.",
+          "lastName": "Harrison"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Randy",
+          "lastName": "Strong"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zelton Dave",
+          "lastName": "Sharp"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James F.",
+          "lastName": "Nelson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Clinton M.",
+          "lastName": "Astle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin",
+          "lastName": "Flurkey"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nancy L.",
+          "lastName": "Nadon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "J. Erby",
+          "lastName": "Wilkinson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Krystyna",
+          "lastName": "Frenkel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Christy S.",
+          "lastName": "Carter"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marco",
+          "lastName": "Pahor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Martin A.",
+          "lastName": "Javors"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Elizabeth",
+          "lastName": "Fernandez"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Richard A.",
+          "lastName": "Miller"
+        }
+      ],
+      "date": "2009-07",
+      "dateAdded": "2022-04-23T05:36:27Z",
+      "dateModified": "2022-04-23T05:53:20Z",
+      "extra": "Number: 7253\nPublisher: Nature Publishing Group",
+      "issue": "7253",
+      "itemID": 905,
+      "itemKey": "JX2JGGHF",
+      "itemType": "journalArticle",
+      "key": "JX2JGGHF",
+      "language": "en",
+      "libraryCatalog": "www.nature.com",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "392-395",
+      "publicationTitle": "Nature",
+      "relations": [],
+      "rights": "2009 Macmillan Publishers Limited. All rights reserved",
+      "select": "zotero://select/library/items/JX2JGGHF",
+      "tags": [
+        {
+          "tag": "citedBy: Lifespan Podcast"
+        },
+        {
+          "tag": "Humanities and Social Sciences",
+          "type": 1
+        },
+        {
+          "tag": "multidisciplinary",
+          "type": 1
+        },
+        {
+          "tag": "Science",
+          "type": 1
+        }
+      ],
+      "title": "Rapamycin fed late in life extends lifespan in genetically heterogeneous mice",
+      "uri": "http://zotero.org/users/6482241/items/JX2JGGHF",
+      "url": "https://www.nature.com/articles/nature08221",
+      "version": 2965,
+      "volume": "460"
+    },
+    {
+      "abstractNote": "The Targeting Aging with Metformin (TAME) Trial is a series of nationwide clinical trials to uncover what metformin means for older populations living longer and healthier lives.",
+      "accessDate": "2022-04-23T05:36:33Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T05:36:38Z",
+          "dateModified": "2022-04-23T05:36:38Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/AMKPB95B/tame-trial.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/6482241/items/AMKPB95B"
+        }
+      ],
+      "citationKey": "TAMETargetingAging",
+      "citekey": "TAMETargetingAging",
+      "creators": [],
+      "dateAdded": "2022-04-23T05:36:33Z",
+      "dateModified": "2022-04-23T05:53:20Z",
+      "itemID": 908,
+      "itemKey": "M3WJQ6XW",
+      "itemType": "webpage",
+      "key": "M3WJQ6XW",
+      "language": "en-US",
+      "libraryID": 1,
+      "notes": [],
+      "publicationTitle": "American Federation for Aging Research",
+      "relations": [],
+      "select": "zotero://select/library/items/M3WJQ6XW",
+      "tags": [
+        {
+          "tag": "citedBy: Lifespan Podcast"
+        }
+      ],
+      "title": "TAME - Targeting Aging with Metformin",
+      "uri": "http://zotero.org/users/6482241/items/M3WJQ6XW",
+      "url": "https://www.afar.org/tame-trial",
+      "version": 2965
+    },
+    {
+      "DOI": "10.1038/ncomms3192",
+      "ISSN": "2041-1723",
+      "abstractNote": "Metformin is a drug commonly prescribed to treat patients with type 2 diabetes. Here we show that long-term treatment with metformin (0.1% w/w in diet) starting at middle age extends healthspan and lifespan in male mice, while a higher dose (1% w/w) was toxic. Treatment with metformin mimics some of the benefits of calorie restriction, such as improved physical performance, increased insulin sensitivity, and reduced low-density lipoprotein and cholesterol levels without a decrease in caloric intake. At a molecular level, metformin increases AMP-activated protein kinase activity and increases antioxidant protection, resulting in reductions in both oxidative damage accumulation and chronic inflammation. Our results indicate that these actions may contribute to the beneficial effects of metformin on healthspan and lifespan. These findings are in agreement with current epidemiological data and raise the possibility of metformin-based interventions to promote healthy aging.",
+      "accessDate": "2022-04-23T05:36:45Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T05:36:47Z",
+          "dateModified": "2022-04-23T18:50:28Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/WRRLAFT3/Martin-Montalvo et al_2013_Metformin improves healthspan and lifespan in mice.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Martin-Montalvo et al_2013_Metformin improves healthspan and lifespan in mice.pdf",
+          "uri": "http://zotero.org/users/6482241/items/WRRLAFT3"
+        },
+        {
+          "dateAdded": "2022-04-23T05:36:51Z",
+          "dateModified": "2022-04-23T05:36:51Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/EBGBGU9N/ncomms3192.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/6482241/items/EBGBGU9N"
+        }
+      ],
+      "citationKey": "martin-montalvo2013MetforminImprovesHealthspan",
+      "citekey": "martin-montalvo2013MetforminImprovesHealthspan",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alejandro",
+          "lastName": "Martin-Montalvo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Evi M.",
+          "lastName": "Mercken"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Sarah J.",
+          "lastName": "Mitchell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hector H.",
+          "lastName": "Palacios"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Patricia L.",
+          "lastName": "Mote"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Morten",
+          "lastName": "Scheibye-Knudsen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ana P.",
+          "lastName": "Gomes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Theresa M.",
+          "lastName": "Ward"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robin K.",
+          "lastName": "Minor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marie-José",
+          "lastName": "Blouin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthias",
+          "lastName": "Schwab"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael",
+          "lastName": "Pollak"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yongqing",
+          "lastName": "Zhang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yinbing",
+          "lastName": "Yu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kevin G.",
+          "lastName": "Becker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vilhelm A.",
+          "lastName": "Bohr"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Donald K.",
+          "lastName": "Ingram"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David A.",
+          "lastName": "Sinclair"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Norman S.",
+          "lastName": "Wolf"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen R.",
+          "lastName": "Spindler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michel",
+          "lastName": "Bernier"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rafael",
+          "lastName": "de Cabo"
+        }
+      ],
+      "date": "2013-07-30",
+      "dateAdded": "2022-04-23T05:36:45Z",
+      "dateModified": "2022-04-23T18:50:28Z",
+      "extra": "tex.ids= martin-montalvo2013MetforminImprovesHealthspana\nnumber: 1\npublisher: Nature Publishing Group",
+      "issue": "1",
+      "itemID": 910,
+      "itemKey": "4JC64I3V",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Nat Commun",
+      "key": "4JC64I3V",
+      "language": "en",
+      "libraryCatalog": "www.nature.com",
+      "libraryID": 1,
+      "notes": [
+        {
+          "dateAdded": "2022-04-23T18:50:28Z",
+          "dateModified": "2022-04-23T18:50:28Z",
+          "itemType": "note",
+          "key": "GK5TI52B",
+          "note": "<head></head><body><p id=\"zotfile-data\" style=\"color: #cccccc;\" title=\"{&quot;lastmod&quot;:1650700446000,&quot;mode&quot;:1,&quot;location&quot;:&quot;[BaseFolder]/Longevity-TheSinclairLab/Martin-Montalvo et al_2013_Metformin improves healthspan and lifespan in mice.pdf&quot;,&quot;projectFolder&quot;:&quot;Longevity-TheSinclairLab&quot;}\">(hidden zotfile data)</p></body>",
+          "parentItem": "4JC64I3V",
+          "relations": {
+            "owl:sameAs": [
+              "http://zotero.org/groups/4696061/items/IC6PVH2N"
+            ]
+          },
+          "tags": [],
+          "uri": "http://zotero.org/users/6482241/items/GK5TI52B",
+          "version": 2950
+        }
+      ],
+      "pages": "2192",
+      "publicationTitle": "Nature Communications",
+      "relations": [],
+      "rights": "2013 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+      "select": "zotero://select/library/items/4JC64I3V",
+      "tags": [
+        {
+          "tag": "_tablet"
+        },
+        {
+          "tag": "citedBy: Lifespan Podcast"
+        },
+        {
+          "tag": "Drug therapy",
+          "type": 1
+        },
+        {
+          "tag": "Medical research",
+          "type": 1
+        }
+      ],
+      "title": "Metformin improves healthspan and lifespan in mice",
+      "uri": "http://zotero.org/users/6482241/items/4JC64I3V",
+      "url": "https://www.nature.com/articles/ncomms3192",
+      "version": 2950,
+      "volume": "4"
+    },
+    {
+      "DOI": "10.1016/j.arr.2017.08.003",
+      "ISSN": "1568-1637",
+      "abstractNote": "This systematic review investigated whether the insulin sensitiser metformin has a geroprotective effect in humans. Pubmed and Embase were searched along with databases of unpublished studies. Eligible research investigated the effect of metformin on all-cause mortality or diseases of ageing relative to non-diabetic populations or diabetics receiving other therapies with adjustment for disease control achieved. Overall, 260 full-texts were reviewed and 53 met the inclusion criteria. Diabetics taking metformin had significantly lower all-cause mortality than non-diabetics (hazard ratio (HR)=0.93, 95%CI 0.88–0.99), as did diabetics taking metformin compared to diabetics receiving non-metformin therapies (HR=0.72, 95%CI 0.65–0.80), insulin (HR=0.68, 95%CI 0.63–0.75) or sulphonylurea (HR=0.80, 95%CI 0.66–0.97). Metformin users also had reduced cancer compared to non-diabetics (rate ratio=0.94, 95%CI 0.92–0.97) and cardiovascular disease (CVD) compared to diabetics receiving non-metformin therapies (HR=0.76, 95%CI 0.66–0.87) or insulin (HR=0.78, 95%CI 0.73–0.83). Differences in baseline characteristics were observed which had the potential to bias findings, although statistical adjustments were made. The apparent reductions in all-cause mortality and diseases of ageing associated with metformin use suggest that metformin could be extending life and healthspans by acting as a geroprotective agent.",
+      "accessDate": "2022-04-23T05:36:52Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T05:47:35Z",
+          "dateModified": "2022-04-23T05:47:35Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/JKC2Q6EL/Campbell et al_2017_Metformin reduces all-cause mortality and diseases of ageing independent of its.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Campbell et al_2017_Metformin reduces all-cause mortality and diseases of ageing independent of its.pdf",
+          "uri": "http://zotero.org/users/6482241/items/JKC2Q6EL"
+        },
+        {
+          "dateAdded": "2022-04-23T05:36:57Z",
+          "dateModified": "2022-04-23T05:36:57Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/E8YJSDGK/S1568163717301472.html",
+          "relations": [],
+          "tags": [],
+          "title": "ScienceDirect Snapshot",
+          "uri": "http://zotero.org/users/6482241/items/E8YJSDGK"
+        }
+      ],
+      "citationKey": "campbell2017MetforminReducesAllcause",
+      "citekey": "campbell2017MetforminReducesAllcause",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Jared M.",
+          "lastName": "Campbell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Susan M.",
+          "lastName": "Bellman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matthew D.",
+          "lastName": "Stephenson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karolina",
+          "lastName": "Lisy."
+        }
+      ],
+      "date": "2017-11-01",
+      "dateAdded": "2022-04-23T05:36:52Z",
+      "dateModified": "2022-04-23T05:53:20Z",
+      "itemID": 913,
+      "itemKey": "GG3LQ33A",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Ageing Research Reviews",
+      "key": "GG3LQ33A",
+      "language": "en",
+      "libraryCatalog": "ScienceDirect",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "31-44",
+      "publicationTitle": "Ageing Research Reviews",
+      "relations": [],
+      "select": "zotero://select/library/items/GG3LQ33A",
+      "shortTitle": "Metformin reduces all-cause mortality and diseases of ageing independent of its effect on diabetes control",
+      "tags": [
+        {
+          "tag": "ageing",
+          "type": 1
+        },
+        {
+          "tag": "citedBy: Lifespan Podcast"
+        },
+        {
+          "tag": "Geroprotection",
+          "type": 1
+        },
+        {
+          "tag": "Insulin sensitizer",
+          "type": 1
+        },
+        {
+          "tag": "Lifespan",
+          "type": 1
+        },
+        {
+          "tag": "Longevity",
+          "type": 1
+        },
+        {
+          "tag": "Metformin",
+          "type": 1
+        }
+      ],
+      "title": "Metformin reduces all-cause mortality and diseases of ageing independent of its effect on diabetes control: A systematic review and meta-analysis",
+      "uri": "http://zotero.org/users/6482241/items/GG3LQ33A",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1568163717301472",
+      "version": 2965,
+      "volume": "40"
+    },
+    {
+      "DOI": "10.1038/s41586-020-2975-4",
+      "ISSN": "1476-4687",
+      "abstractNote": "Ageing is a degenerative process that leads to tissue dysfunction and death. A proposed cause of ageing is the accumulation of epigenetic noise that disrupts gene expression patterns, leading to decreases in tissue function and regenerative capacity1–3. Changes to DNA methylation patterns over time form the basis of ageing clocks4, but whether older individuals retain the information needed to restore these patterns—and, if so, whether this could improve tissue function—is not known. Over time, the central nervous system (CNS) loses function and regenerative capacity5–7. Using the eye as a model CNS tissue, here we show that ectopic expression of Oct4 (also known as Pou5f1), Sox2 and Klf4 genes (OSK) in mouse retinal ganglion cells restores youthful DNA methylation patterns and transcriptomes, promotes axon regeneration after injury, and reverses vision loss in a mouse model of glaucoma and in aged mice. The beneficial effects of OSK-induced reprogramming in axon regeneration and vision require the DNA demethylases TET1 and TET2. These data indicate that mammalian tissues retain a record of youthful epigenetic information—encoded in part by DNA methylation—that can be accessed to improve tissue function and promote regeneration in vivo.",
+      "accessDate": "2022-04-23T05:37:02Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T07:29:30Z",
+          "dateModified": "2022-04-23T18:50:41Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/8BNCB22E/Lu et al_2020_Reprogramming to recover youthful epigenetic information and restore vision.pdf",
+          "relations": [],
+          "tags": [
+            {
+              "tag": "_tablet"
+            }
+          ],
+          "title": "Lu et al_2020_Reprogramming to recover youthful epigenetic information and restore vision.pdf",
+          "uri": "http://zotero.org/users/6482241/items/8BNCB22E"
+        },
+        {
+          "dateAdded": "2022-04-23T05:37:08Z",
+          "dateModified": "2022-04-23T05:37:08Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/QKEYJBF6/s41586-020-2975-4.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/6482241/items/QKEYJBF6"
+        }
+      ],
+      "citationKey": "lu2020ReprogrammingRecoverYouthful",
+      "citekey": "lu2020ReprogrammingRecoverYouthful",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yuancheng",
+          "lastName": "Lu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Benedikt",
+          "lastName": "Brommer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Xiao",
+          "lastName": "Tian"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Anitha",
+          "lastName": "Krishnan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Margarita",
+          "lastName": "Meer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Chen",
+          "lastName": "Wang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel L.",
+          "lastName": "Vera"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Qiurui",
+          "lastName": "Zeng"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Doudou",
+          "lastName": "Yu"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael S.",
+          "lastName": "Bonkowski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jae-Hyun",
+          "lastName": "Yang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Songlin",
+          "lastName": "Zhou"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emma M.",
+          "lastName": "Hoffmann"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Margarete M.",
+          "lastName": "Karg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael B.",
+          "lastName": "Schultz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alice E.",
+          "lastName": "Kane"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Noah",
+          "lastName": "Davidsohn"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ekaterina",
+          "lastName": "Korobkina"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karolina",
+          "lastName": "Chwalek"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Luis A.",
+          "lastName": "Rajman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "George M.",
+          "lastName": "Church"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Konrad",
+          "lastName": "Hochedlinger"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Vadim N.",
+          "lastName": "Gladyshev"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Steve",
+          "lastName": "Horvath"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Morgan E.",
+          "lastName": "Levine"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Meredith S.",
+          "lastName": "Gregory-Ksander"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bruce R.",
+          "lastName": "Ksander"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zhigang",
+          "lastName": "He"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David A.",
+          "lastName": "Sinclair"
+        }
+      ],
+      "date": "2020-12",
+      "dateAdded": "2022-04-23T05:37:02Z",
+      "dateModified": "2022-04-23T18:50:41Z",
+      "extra": "tex.ids= lu2020ReprogrammingRecoverYouthfula\nnumber: 7836\npublisher: Nature Publishing Group",
+      "issue": "7836",
+      "itemID": 915,
+      "itemKey": "6GKS22EW",
+      "itemType": "journalArticle",
+      "key": "6GKS22EW",
+      "language": "en",
+      "libraryCatalog": "www.nature.com",
+      "libraryID": 1,
+      "notes": [
+        {
+          "dateAdded": "2022-05-22T06:45:37Z",
+          "dateModified": "2022-05-22T06:45:37Z",
+          "itemType": "note",
+          "key": "GNVVMIN8",
+          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F6GKS22EW%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F6GKS22EW%22%2C%22type%22%3A%22article-journal%22%2C%22abstract%22%3A%22Ageing%20is%20a%20degenerative%20process%20that%20leads%20to%20tissue%20dysfunction%20and%20death.%20A%20proposed%20cause%20of%20ageing%20is%20the%20accumulation%20of%20epigenetic%20noise%20that%20disrupts%20gene%20expression%20patterns%2C%20leading%20to%20decreases%20in%20tissue%20function%20and%20regenerative%20capacity1%E2%80%933.%20Changes%20to%20DNA%20methylation%20patterns%20over%20time%20form%20the%20basis%20of%20ageing%20clocks4%2C%20but%20whether%20older%20individuals%20retain%20the%C2%A0information%20needed%C2%A0to%20restore%20these%20patterns%E2%80%94and%2C%20if%20so%2C%20whether%20this%20could%20improve%20tissue%20function%E2%80%94is%20not%20known.%20Over%20time%2C%20the%20central%20nervous%20system%20(CNS)%20loses%20function%20and%20regenerative%20capacity5%E2%80%937.%20Using%20the%20eye%20as%20a%20model%20CNS%20tissue%2C%20here%20we%20show%20that%20ectopic%20expression%20of%20Oct4%20(also%20known%20as%20Pou5f1)%2C%20Sox2%20and%20Klf4%20genes%20(OSK)%20in%20mouse%20retinal%20ganglion%20cells%20restores%20youthful%20DNA%20methylation%20patterns%20and%20transcriptomes%2C%20promotes%20axon%20regeneration%20after%20injury%2C%20and%20reverses%20vision%20loss%20in%20a%20mouse%20model%20of%20glaucoma%20and%20in%20aged%20mice.%20The%20beneficial%20effects%20of%20OSK-induced%20reprogramming%20in%20axon%20regeneration%20and%20vision%20require%20the%20DNA%20demethylases%20TET1%20and%20TET2.%20These%20data%20indicate%20that%20mammalian%20tissues%20retain%20a%20record%20of%20youthful%20epigenetic%20information%E2%80%94encoded%20in%20part%20by%20DNA%20methylation%E2%80%94that%20can%20be%20accessed%20to%20improve%20tissue%20function%20and%20promote%20regeneration%20in%20vivo.%22%2C%22container-title%22%3A%22Nature%22%2C%22DOI%22%3A%2210.1038%2Fs41586-020-2975-4%22%2C%22ISSN%22%3A%221476-4687%22%2C%22issue%22%3A%227836%22%2C%22language%22%3A%22en%22%2C%22note%22%3A%22tex.ids%3D%20lu2020ReprogrammingRecoverYouthfula%5Cnnumber%3A%207836%5Cnpublisher%3A%20Nature%20Publishing%20Group%22%2C%22page%22%3A%22124-129%22%2C%22source%22%3A%22www.nature.com%22%2C%22title%22%3A%22Reprogramming%20to%20recover%20youthful%20epigenetic%20information%20and%20restore%20vision%22%2C%22URL%22%3A%22https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586-020-2975-4%22%2C%22volume%22%3A%22588%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Lu%22%2C%22given%22%3A%22Yuancheng%22%7D%2C%7B%22family%22%3A%22Brommer%22%2C%22given%22%3A%22Benedikt%22%7D%2C%7B%22family%22%3A%22Tian%22%2C%22given%22%3A%22Xiao%22%7D%2C%7B%22family%22%3A%22Krishnan%22%2C%22given%22%3A%22Anitha%22%7D%2C%7B%22family%22%3A%22Meer%22%2C%22given%22%3A%22Margarita%22%7D%2C%7B%22family%22%3A%22Wang%22%2C%22given%22%3A%22Chen%22%7D%2C%7B%22family%22%3A%22Vera%22%2C%22given%22%3A%22Daniel%20L.%22%7D%2C%7B%22family%22%3A%22Zeng%22%2C%22given%22%3A%22Qiurui%22%7D%2C%7B%22family%22%3A%22Yu%22%2C%22given%22%3A%22Doudou%22%7D%2C%7B%22family%22%3A%22Bonkowski%22%2C%22given%22%3A%22Michael%20S.%22%7D%2C%7B%22family%22%3A%22Yang%22%2C%22given%22%3A%22Jae-Hyun%22%7D%2C%7B%22family%22%3A%22Zhou%22%2C%22given%22%3A%22Songlin%22%7D%2C%7B%22family%22%3A%22Hoffmann%22%2C%22given%22%3A%22Emma%20M.%22%7D%2C%7B%22family%22%3A%22Karg%22%2C%22given%22%3A%22Margarete%20M.%22%7D%2C%7B%22family%22%3A%22Schultz%22%2C%22given%22%3A%22Michael%20B.%22%7D%2C%7B%22family%22%3A%22Kane%22%2C%22given%22%3A%22Alice%20E.%22%7D%2C%7B%22family%22%3A%22Davidsohn%22%2C%22given%22%3A%22Noah%22%7D%2C%7B%22family%22%3A%22Korobkina%22%2C%22given%22%3A%22Ekaterina%22%7D%2C%7B%22family%22%3A%22Chwalek%22%2C%22given%22%3A%22Karolina%22%7D%2C%7B%22family%22%3A%22Rajman%22%2C%22given%22%3A%22Luis%20A.%22%7D%2C%7B%22family%22%3A%22Church%22%2C%22given%22%3A%22George%20M.%22%7D%2C%7B%22family%22%3A%22Hochedlinger%22%2C%22given%22%3A%22Konrad%22%7D%2C%7B%22family%22%3A%22Gladyshev%22%2C%22given%22%3A%22Vadim%20N.%22%7D%2C%7B%22family%22%3A%22Horvath%22%2C%22given%22%3A%22Steve%22%7D%2C%7B%22family%22%3A%22Levine%22%2C%22given%22%3A%22Morgan%20E.%22%7D%2C%7B%22family%22%3A%22Gregory-Ksander%22%2C%22given%22%3A%22Meredith%20S.%22%7D%2C%7B%22family%22%3A%22Ksander%22%2C%22given%22%3A%22Bruce%20R.%22%7D%2C%7B%22family%22%3A%22He%22%2C%22given%22%3A%22Zhigang%22%7D%2C%7B%22family%22%3A%22Sinclair%22%2C%22given%22%3A%22David%20A.%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222022%22%2C4%2C22%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222020%22%2C12%5D%5D%7D%2C%22citation-key%22%3A%22lu2020ReprogrammingRecoverYouthful%22%7D%7D%5D\" data-schema-version=\"8\"><h1>Annotations<br/>(5/21/2022, 11:45:37 PM)</h1>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F8BNCB22E%22%2C%22annotationKey%22%3A%22BCRDMW5L%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%22124%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B314.646%2C260.09%2C561.242%2C270.27%5D%2C%5B306.142%2C249.34%2C561.262%2C259.52%5D%2C%5B306.142%2C238.59%2C561.192%2C248.77%5D%2C%5B306.142%2C227.84%2C561.426%2C238.021%5D%2C%5B306.142%2C217.09%2C338.143%2C227.27%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F6GKS22EW%22%5D%2C%22locator%22%3A%22124%22%7D%7D\">“Ageing is generally considered to be a unidirectional process, akin to an increase in entropy. However, living systems are open, not closed, and in some cases biological age can be fully reset, for example in ‘immortal’ jellyfish and through the cloning of animals by nuclear transfer.”</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F6GKS22EW%22%5D%2C%22locator%22%3A%22124%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Lu et al., 2020, p. 124</span>)</span></p></div>",
+          "parentItem": "6GKS22EW",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/users/6482241/items/GNVVMIN8",
+          "version": 2996
+        }
+      ],
+      "pages": "124-129",
+      "publicationTitle": "Nature",
+      "relations": [],
+      "rights": "2020 The Author(s), under exclusive licence to Springer Nature Limited",
+      "select": "zotero://select/library/items/6GKS22EW",
+      "tags": [
+        {
+          "tag": "_tablet"
+        },
+        {
+          "tag": "Ageing",
+          "type": 1
+        },
+        {
+          "tag": "citedBy: Lifespan Podcast"
+        },
+        {
+          "tag": "DNA methylation",
+          "type": 1
+        },
+        {
+          "tag": "Regeneration and repair in the nervous system",
+          "type": 1
+        },
+        {
+          "tag": "Reprogramming",
+          "type": 1
+        },
+        {
+          "tag": "Retina",
+          "type": 1
+        }
+      ],
+      "title": "Reprogramming to recover youthful epigenetic information and restore vision",
+      "uri": "http://zotero.org/users/6482241/items/6GKS22EW",
+      "url": "https://www.nature.com/articles/s41586-020-2975-4",
+      "version": 2950,
+      "volume": "588"
+    },
+    {
+      "DOI": "10.1186/gb-2013-14-10-r115",
+      "ISSN": "1474-760X",
+      "abstractNote": "It is not yet known whether DNA methylation levels can be used to accurately predict age across a broad spectrum of human tissues and cell types, nor whether the resulting age prediction is a biologically meaningful measure.",
+      "accessDate": "2022-04-23T05:37:11Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T05:37:13Z",
+          "dateModified": "2022-04-23T05:37:13Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/49BJC478/Horvath_2013_DNA methylation age of human tissues and cell types.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Horvath_2013_DNA methylation age of human tissues and cell types.pdf",
+          "uri": "http://zotero.org/users/6482241/items/49BJC478"
+        },
+        {
+          "dateAdded": "2022-04-23T05:37:17Z",
+          "dateModified": "2022-04-23T05:37:17Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/SBU3VNWR/gb-2013-14-10-r115.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/6482241/items/SBU3VNWR"
+        }
+      ],
+      "citationKey": "horvath2013DNAMethylationAge",
+      "citekey": "horvath2013DNAMethylationAge",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Steve",
+          "lastName": "Horvath"
+        }
+      ],
+      "date": "2013-12-10",
+      "dateAdded": "2022-04-23T05:37:11Z",
+      "dateModified": "2022-04-23T05:53:20Z",
+      "issue": "10",
+      "itemID": 917,
+      "itemKey": "5TG8RLZS",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Genome Biology",
+      "key": "5TG8RLZS",
+      "libraryCatalog": "BioMed Central",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "3156",
+      "publicationTitle": "Genome Biology",
+      "relations": [],
+      "select": "zotero://select/library/items/5TG8RLZS",
+      "tags": [
+        {
+          "tag": "Cell Passage Number",
+          "type": 1
+        },
+        {
+          "tag": "citedBy: Lifespan Podcast"
+        },
+        {
+          "tag": "DNAm Level",
+          "type": 1
+        },
+        {
+          "tag": "Epigenetic Clock",
+          "type": 1
+        },
+        {
+          "tag": "Penalize Regression Model",
+          "type": 1
+        },
+        {
+          "tag": "Progeria",
+          "type": 1
+        }
+      ],
+      "title": "DNA methylation age of human tissues and cell types",
+      "uri": "http://zotero.org/users/6482241/items/5TG8RLZS",
+      "url": "https://doi.org/10.1186/gb-2013-14-10-r115",
+      "version": 2965,
+      "volume": "14"
+    },
+    {
+      "DOI": "10.1016/j.molcel.2012.10.016",
+      "ISSN": "1097-2765",
+      "accessDate": "2022-04-23T05:37:20Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T05:37:22Z",
+          "dateModified": "2022-04-23T05:37:22Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/NV4W7CBV/Hannum et al_2013_Genome-wide Methylation Profiles Reveal Quantitative Views of Human Aging Rates.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Hannum et al_2013_Genome-wide Methylation Profiles Reveal Quantitative Views of Human Aging Rates.pdf",
+          "uri": "http://zotero.org/users/6482241/items/NV4W7CBV"
+        },
+        {
+          "accessDate": "2022-04-23T05:37:21Z",
+          "charset": "",
+          "contentType": "text/html",
+          "dateAdded": "2022-04-23T05:37:21Z",
+          "dateModified": "2022-04-23T05:37:21Z",
+          "itemType": "attachment",
+          "key": "CCI63W5F",
+          "linkMode": "linked_url",
+          "parentItem": "RUMXUGDZ",
+          "relations": {
+            "owl:sameAs": [
+              "http://zotero.org/groups/4696061/items/BJUF8G2L"
+            ]
+          },
+          "select": "zotero://select/library/items/CCI63W5F",
+          "tags": [],
+          "title": "PubMed entry",
+          "uri": "http://zotero.org/users/6482241/items/CCI63W5F",
+          "url": "http://www.ncbi.nlm.nih.gov/pubmed/23177740",
+          "version": 2965
+        },
+        {
+          "dateAdded": "2022-04-23T05:37:26Z",
+          "dateModified": "2022-04-23T05:37:26Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/T5G96X64/S1097-2765(12)00893-3.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/6482241/items/T5G96X64"
+        }
+      ],
+      "citationKey": "hannum2013GenomewideMethylationProfiles",
+      "citekey": "hannum2013GenomewideMethylationProfiles",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gregory",
+          "lastName": "Hannum"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Justin",
+          "lastName": "Guinney"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Ling",
+          "lastName": "Zhao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Li",
+          "lastName": "Zhang"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Guy",
+          "lastName": "Hughes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "SriniVas",
+          "lastName": "Sadda"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Brandy",
+          "lastName": "Klotzle"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Marina",
+          "lastName": "Bibikova"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jian-Bing",
+          "lastName": "Fan"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yuan",
+          "lastName": "Gao"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rob",
+          "lastName": "Deconde"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Menzies",
+          "lastName": "Chen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Indika",
+          "lastName": "Rajapakse"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen",
+          "lastName": "Friend"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Trey",
+          "lastName": "Ideker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kang",
+          "lastName": "Zhang"
+        }
+      ],
+      "date": "2013-01-24",
+      "dateAdded": "2022-04-23T05:37:20Z",
+      "dateModified": "2022-04-23T05:53:20Z",
+      "extra": "Publisher: Elsevier\nPMID: 23177740",
+      "issue": "2",
+      "itemID": 920,
+      "itemKey": "RUMXUGDZ",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Molecular Cell",
+      "key": "RUMXUGDZ",
+      "language": "English",
+      "libraryCatalog": "www.cell.com",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "359-367",
+      "publicationTitle": "Molecular Cell",
+      "relations": [],
+      "select": "zotero://select/library/items/RUMXUGDZ",
+      "tags": [
+        {
+          "tag": "citedBy: Lifespan Podcast"
+        }
+      ],
+      "title": "Genome-wide Methylation Profiles Reveal Quantitative Views of Human Aging Rates",
+      "uri": "http://zotero.org/users/6482241/items/RUMXUGDZ",
+      "url": "https://www.cell.com/molecular-cell/abstract/S1097-2765(12)00893-3",
+      "version": 2965,
+      "volume": "49"
+    },
+    {
+      "DOI": "10.1111/acel.13028",
+      "ISSN": "1474-9726",
+      "abstractNote": "Epigenetic “clocks” can now surpass chronological age in accuracy for estimating biological age. Here, we use four such age estimators to show that epigenetic aging can be reversed in humans. Using a protocol intended to regenerate the thymus, we observed protective immunological changes, improved risk indices for many age-related diseases, and a mean epigenetic age approximately 1.5 years less than baseline after 1 year of treatment (−2.5-year change compared to no treatment at the end of the study). The rate of epigenetic aging reversal relative to chronological age accelerated from −1.6 year/year from 0–9 month to −6.5 year/year from 9–12 month. The GrimAge predictor of human morbidity and mortality showed a 2-year decrease in epigenetic vs. chronological age that persisted six months after discontinuing treatment. This is to our knowledge the first report of an increase, based on an epigenetic age estimator, in predicted human lifespan by means of a currently accessible aging intervention.",
+      "accessDate": "2022-04-23T05:37:28Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T05:37:29Z",
+          "dateModified": "2022-04-23T05:37:29Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/Z9WSE84K/Fahy et al_2019_Reversal of epigenetic aging and immunosenescent trends in humans.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Fahy et al_2019_Reversal of epigenetic aging and immunosenescent trends in humans.pdf",
+          "uri": "http://zotero.org/users/6482241/items/Z9WSE84K"
+        },
+        {
+          "dateAdded": "2022-04-23T05:37:34Z",
+          "dateModified": "2022-04-23T05:37:34Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/GDXZ3MB4/acel.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/6482241/items/GDXZ3MB4"
+        }
+      ],
+      "citationKey": "fahy2019ReversalEpigeneticAging",
+      "citekey": "fahy2019ReversalEpigeneticAging",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Gregory M.",
+          "lastName": "Fahy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Robert T.",
+          "lastName": "Brooke"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James P.",
+          "lastName": "Watson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Zinaida",
+          "lastName": "Good"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Shreyas S.",
+          "lastName": "Vasanawala"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Holden",
+          "lastName": "Maecker"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael D.",
+          "lastName": "Leipold"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David T. S.",
+          "lastName": "Lin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael S.",
+          "lastName": "Kobor"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Steve",
+          "lastName": "Horvath"
+        }
+      ],
+      "date": "2019",
+      "dateAdded": "2022-04-23T05:37:28Z",
+      "dateModified": "2022-04-23T05:53:20Z",
+      "extra": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/acel.13028",
+      "issue": "6",
+      "itemID": 924,
+      "itemKey": "UQXI5GRW",
+      "itemType": "journalArticle",
+      "key": "UQXI5GRW",
+      "language": "en",
+      "libraryCatalog": "Wiley Online Library",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "e13028",
+      "publicationTitle": "Aging Cell",
+      "relations": [],
+      "select": "zotero://select/library/items/UQXI5GRW",
+      "tags": [
+        {
+          "tag": "c-reactive protein",
+          "type": 1
+        },
+        {
+          "tag": "citedBy: Lifespan Podcast"
+        },
+        {
+          "tag": "lymphocyte-to-monocyte ratio",
+          "type": 1
+        },
+        {
+          "tag": "naive T cells",
+          "type": 1
+        },
+        {
+          "tag": "PD-1",
+          "type": 1
+        },
+        {
+          "tag": "PSA",
+          "type": 1
+        },
+        {
+          "tag": "thymic regeneration",
+          "type": 1
+        }
+      ],
+      "title": "Reversal of epigenetic aging and immunosenescent trends in humans",
+      "uri": "http://zotero.org/users/6482241/items/UQXI5GRW",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/acel.13028",
+      "version": 2965,
+      "volume": "18"
+    },
+    {
+      "DOI": "10.1023/A:1022501817781",
+      "ISSN": "1573-3297",
+      "abstractNote": "Genetic-evolutionary theories of aging predict that the genetic variance for fitness traits increases with age, while epidemiological-gerontological theories predict an increase in the environmental variance for most traits. In this study we examine the age trajectories of the genetic and environmental variance in physical functioning in a sample of 4731 Danish twins aged 70+ who are being followed longitudinally every second year with up to four assessments completed. A biometric growth model (Neale and McArdle, 2000) was applied to a validated physical ability score. The model included an overall level effect, a rate of linear change effect, and residual effects. The best-fitting model was a sex-specific model including additive genetic and nonshared environmental factors affecting level and rate of change and only nonshared environmental factors affecting the wave-specific levels. For both sexes there is an approximate doubling of both the total variance and the genetic variance in the physical ability score over the four waves and, hence, a rather stable heritability. However, the heritability is approximately .10 for males and .30 for females in all four waves. The heritability of level and slope showed a similar pattern: .11–14 in males and .35–.39 in females. The increase in both additive genetic variance and environmental variance is in agreement with genetic-evolutionary and epidemiological-gerontological theories of aging, respectively. The present study suggests that overall level of strength may be a better phenotype for future molecular genetic studies on physical functioning in the elderly than rate of change, because rate of change is vulnerable to sample attrition due to mortality and dropout and because four waves were needed to be able to detect a heritability for rate of change of the same magnitude as the heritability for level of physical functioning.",
+      "accessDate": "2022-04-23T05:37:34Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T05:47:20Z",
+          "dateModified": "2022-04-23T05:47:20Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/JEPB4834/Christensen et al_2003_Age Trajectories of Genetic Variance in Physical Functioning.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Christensen et al_2003_Age Trajectories of Genetic Variance in Physical Functioning.pdf",
+          "uri": "http://zotero.org/users/6482241/items/JEPB4834"
+        }
+      ],
+      "citationKey": "christensen2003AgeTrajectoriesGenetic",
+      "citekey": "christensen2003AgeTrajectoriesGenetic",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Kaare",
+          "lastName": "Christensen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Henrik",
+          "lastName": "Frederiksen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James W.",
+          "lastName": "Vaupel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Matt",
+          "lastName": "McGue"
+        }
+      ],
+      "date": "2003-03-01",
+      "dateAdded": "2022-04-23T05:37:34Z",
+      "dateModified": "2022-04-23T05:52:31Z",
+      "issue": "2",
+      "itemID": 927,
+      "itemKey": "WPQHX3N3",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Behav Genet",
+      "key": "WPQHX3N3",
+      "language": "en",
+      "libraryCatalog": "Springer Link",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "125-136",
+      "publicationTitle": "Behavior Genetics",
+      "relations": [],
+      "select": "zotero://select/library/items/WPQHX3N3",
+      "shortTitle": "Age Trajectories of Genetic Variance in Physical Functioning",
+      "tags": [
+        {
+          "tag": "Aging",
+          "type": 1
+        },
+        {
+          "tag": "citedBy: Lifespan Podcast"
+        },
+        {
+          "tag": "evolution",
+          "type": 1
+        },
+        {
+          "tag": "genetics",
+          "type": 1
+        },
+        {
+          "tag": "physical abilities",
+          "type": 1
+        },
+        {
+          "tag": "rate of change",
+          "type": 1
+        },
+        {
+          "tag": "twins",
+          "type": 1
+        }
+      ],
+      "title": "Age Trajectories of Genetic Variance in Physical Functioning: A Longitudinal Study of Danish Twins Aged 70 Years and Older",
+      "uri": "http://zotero.org/users/6482241/items/WPQHX3N3",
+      "url": "https://doi.org/10.1023/A:1022501817781",
+      "version": 2965,
+      "volume": "33"
+    },
+    {
+      "DOI": "10.1111/acel.12338",
+      "ISSN": "1474-9718, 1474-9726",
+      "accessDate": "2022-04-23T06:40:42Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-04-23T06:43:41Z",
+          "dateModified": "2022-04-23T07:53:59Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/38HZ6EU7/Longo et al_2015_Interventions to Slow Aging in Humans.pdf",
+          "relations": [],
+          "tags": [
+            {
+              "tag": "_tablet"
+            }
+          ],
+          "title": "Longo et al_2015_Interventions to Slow Aging in Humans.pdf",
+          "uri": "http://zotero.org/users/6482241/items/38HZ6EU7"
+        }
+      ],
+      "citationKey": "longo2015InterventionsSlowAging",
+      "citekey": "longo2015InterventionsSlowAging",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Valter D.",
+          "lastName": "Longo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adam",
+          "lastName": "Antebi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrzej",
+          "lastName": "Bartke"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nir",
+          "lastName": "Barzilai"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Holly M.",
+          "lastName": "Brown‐Borg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Calogero",
+          "lastName": "Caruso"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Tyler J.",
+          "lastName": "Curiel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rafael",
+          "lastName": "Cabo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Claudio",
+          "lastName": "Franceschi"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David",
+          "lastName": "Gems"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Donald K.",
+          "lastName": "Ingram"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Thomas E.",
+          "lastName": "Johnson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Brian K.",
+          "lastName": "Kennedy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Cynthia",
+          "lastName": "Kenyon"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Samuel",
+          "lastName": "Klein"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John J.",
+          "lastName": "Kopchick"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Guenter",
+          "lastName": "Lepperdinger"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Frank",
+          "lastName": "Madeo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mario G.",
+          "lastName": "Mirisola"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "James R.",
+          "lastName": "Mitchell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Giuseppe",
+          "lastName": "Passarino"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Karl L.",
+          "lastName": "Rudolph"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "John M.",
+          "lastName": "Sedivy"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Gerald S.",
+          "lastName": "Shadel"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "David A.",
+          "lastName": "Sinclair"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Stephen R.",
+          "lastName": "Spindler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yousin",
+          "lastName": "Suh"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jan",
+          "lastName": "Vijg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Manlio",
+          "lastName": "Vinciguerra"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Luigi",
+          "lastName": "Fontana"
+        }
+      ],
+      "date": "08/2015",
+      "dateAdded": "2022-04-23T06:40:42Z",
+      "dateModified": "2022-04-23T07:53:59Z",
+      "issue": "4",
+      "itemID": 1098,
+      "itemKey": "68WDVFWL",
+      "itemType": "journalArticle",
+      "journalAbbreviation": "Aging Cell",
+      "key": "68WDVFWL",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "libraryID": 1,
+      "notes": [
+        {
+          "dateAdded": "2022-05-22T07:01:27Z",
+          "dateModified": "2022-05-22T07:01:28Z",
+          "itemType": "note",
+          "key": "MNLA8K9J",
+          "note": "<div data-citation-items=\"%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F68WDVFWL%22%5D%2C%22itemData%22%3A%7B%22id%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F68WDVFWL%22%2C%22type%22%3A%22article-journal%22%2C%22container-title%22%3A%22Aging%20Cell%22%2C%22DOI%22%3A%2210.1111%2Facel.12338%22%2C%22ISSN%22%3A%221474-9718%2C%201474-9726%22%2C%22issue%22%3A%224%22%2C%22journalAbbreviation%22%3A%22Aging%20Cell%22%2C%22language%22%3A%22en%22%2C%22page%22%3A%22497-510%22%2C%22source%22%3A%22DOI.org%20(Crossref)%22%2C%22title%22%3A%22Interventions%20to%20Slow%20Aging%20in%20Humans%3A%20Are%20We%20Ready%3F%22%2C%22title-short%22%3A%22Interventions%20to%20Slow%20Aging%20in%20Humans%22%2C%22URL%22%3A%22https%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1111%2Facel.12338%22%2C%22volume%22%3A%2214%22%2C%22author%22%3A%5B%7B%22family%22%3A%22Longo%22%2C%22given%22%3A%22Valter%20D.%22%7D%2C%7B%22family%22%3A%22Antebi%22%2C%22given%22%3A%22Adam%22%7D%2C%7B%22family%22%3A%22Bartke%22%2C%22given%22%3A%22Andrzej%22%7D%2C%7B%22family%22%3A%22Barzilai%22%2C%22given%22%3A%22Nir%22%7D%2C%7B%22family%22%3A%22Brown%E2%80%90Borg%22%2C%22given%22%3A%22Holly%20M.%22%7D%2C%7B%22family%22%3A%22Caruso%22%2C%22given%22%3A%22Calogero%22%7D%2C%7B%22family%22%3A%22Curiel%22%2C%22given%22%3A%22Tyler%20J.%22%7D%2C%7B%22family%22%3A%22Cabo%22%2C%22given%22%3A%22Rafael%22%7D%2C%7B%22family%22%3A%22Franceschi%22%2C%22given%22%3A%22Claudio%22%7D%2C%7B%22family%22%3A%22Gems%22%2C%22given%22%3A%22David%22%7D%2C%7B%22family%22%3A%22Ingram%22%2C%22given%22%3A%22Donald%20K.%22%7D%2C%7B%22family%22%3A%22Johnson%22%2C%22given%22%3A%22Thomas%20E.%22%7D%2C%7B%22family%22%3A%22Kennedy%22%2C%22given%22%3A%22Brian%20K.%22%7D%2C%7B%22family%22%3A%22Kenyon%22%2C%22given%22%3A%22Cynthia%22%7D%2C%7B%22family%22%3A%22Klein%22%2C%22given%22%3A%22Samuel%22%7D%2C%7B%22family%22%3A%22Kopchick%22%2C%22given%22%3A%22John%20J.%22%7D%2C%7B%22family%22%3A%22Lepperdinger%22%2C%22given%22%3A%22Guenter%22%7D%2C%7B%22family%22%3A%22Madeo%22%2C%22given%22%3A%22Frank%22%7D%2C%7B%22family%22%3A%22Mirisola%22%2C%22given%22%3A%22Mario%20G.%22%7D%2C%7B%22family%22%3A%22Mitchell%22%2C%22given%22%3A%22James%20R.%22%7D%2C%7B%22family%22%3A%22Passarino%22%2C%22given%22%3A%22Giuseppe%22%7D%2C%7B%22family%22%3A%22Rudolph%22%2C%22given%22%3A%22Karl%20L.%22%7D%2C%7B%22family%22%3A%22Sedivy%22%2C%22given%22%3A%22John%20M.%22%7D%2C%7B%22family%22%3A%22Shadel%22%2C%22given%22%3A%22Gerald%20S.%22%7D%2C%7B%22family%22%3A%22Sinclair%22%2C%22given%22%3A%22David%20A.%22%7D%2C%7B%22family%22%3A%22Spindler%22%2C%22given%22%3A%22Stephen%20R.%22%7D%2C%7B%22family%22%3A%22Suh%22%2C%22given%22%3A%22Yousin%22%7D%2C%7B%22family%22%3A%22Vijg%22%2C%22given%22%3A%22Jan%22%7D%2C%7B%22family%22%3A%22Vinciguerra%22%2C%22given%22%3A%22Manlio%22%7D%2C%7B%22family%22%3A%22Fontana%22%2C%22given%22%3A%22Luigi%22%7D%5D%2C%22accessed%22%3A%7B%22date-parts%22%3A%5B%5B%222022%22%2C4%2C22%5D%5D%7D%2C%22issued%22%3A%7B%22date-parts%22%3A%5B%5B%222015%22%2C8%5D%5D%7D%2C%22citation-key%22%3A%22longo2015InterventionsSlowAging%22%7D%7D%5D\" data-schema-version=\"8\"><h1>Annotations<br/>(5/22/2022, 12:01:28 AM)</h1>\n<p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F38HZ6EU7%22%2C%22annotationKey%22%3A%22LJ52H2K7%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%22498%22%2C%22position%22%3A%7B%22pageIndex%22%3A1%2C%22rects%22%3A%5B%5B68.883%2C350.125%2C288.628%2C357.817%5D%2C%5B44.788%2C339.184%2C288.598%2C346.875%5D%2C%5B44.788%2C328.242%2C288.596%2C335.934%5D%2C%5B44.788%2C316.964%2C288.656%2C324.935%5D%2C%5B44.788%2C306.302%2C288.604%2C313.993%5D%2C%5B44.788%2C295.36%2C288.648%2C303.052%5D%2C%5B44.788%2C284.419%2C288.663%2C292.11%5D%2C%5B44.788%2C273.421%2C288.598%2C281.112%5D%2C%5B44.788%2C262.479%2C288.585%2C270.171%5D%2C%5B44.789%2C251.538%2C288.648%2C259.229%5D%2C%5B44.789%2C240.54%2C288.585%2C248.231%5D%2C%5B44.789%2C229.598%2C288.62%2C237.29%5D%2C%5B44.789%2C218.657%2C288.583%2C226.348%5D%2C%5B44.789%2C207.658%2C288.609%2C215.349%5D%2C%5B44.789%2C196.716%2C288.624%2C204.408%5D%2C%5B44.789%2C185.775%2C288.597%2C193.466%5D%2C%5B44.788%2C174.776%2C288.557%2C182.467%5D%2C%5B44.788%2C163.835%2C288.592%2C171.526%5D%2C%5B44.788%2C152.893%2C288.594%2C160.584%5D%2C%5B44.788%2C141.952%2C288.575%2C149.643%5D%2C%5B44.788%2C130.953%2C288.626%2C138.644%5D%2C%5B44.788%2C120.011%2C207.16%2C127.703%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F68WDVFWL%22%5D%2C%22locator%22%3A%22498%22%7D%7D\">“Data from experimental studies in invertebrates and rodents have consistently shown that both chronic dietary restriction (DR) and mutations in nutrient and growth signaling pathways can extend longevity by 30–50%. These interventions can also lower the prevalence of age-related loss of function and multiple diseases, including tumors, cardiovascular disease, and neurodegeneration (Fontana et al., 2010). DR protects against diabetes, cancer, cardiovascular disease, sarcopenia, and neurodegeneration of certain brain regions in rhesus monkeys and also extends lifespan (Mattison et al., 2012; Colman et al., 2014). In humans, long-term DR causes several metabolic and molecular changes that protect against age-related pathologies, including changes in markers for type 2 diabetes, hypertension, cardiovascular disease, cancer, and dementia (Cava &amp; Fontana, 2013). Moreover, chronic DR ameliorates the expected age-associated alterations in myocardial stiffness, autonomic function, and skeletal muscle gene expression changes (Mattison et al., 2012; Cava &amp; Fontana, 2013; Colman et al., 2014). However, the duration and severity of the DR regimen that is required for optimal benefits is not feasible for most people and is likely to be associated with undesirable side effects. Therefore, the focus of this consensus meeting in Erice was on less drastic dietary interventions and drugs that target nutrient-response pathways and mimic the effects of DR, but that are practical, realistic, and safe.”</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F68WDVFWL%22%5D%2C%22locator%22%3A%22498%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Longo et al., 2015, p. 498</span>)</span></p><p><span class=\"highlight\" data-annotation=\"%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F38HZ6EU7%22%2C%22annotationKey%22%3A%229ZVKLRDE%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%22498%22%2C%22position%22%3A%7B%22pageIndex%22%3A1%2C%22rects%22%3A%5B%5B54.766%2C109.07%2C288.608%2C116.761%5D%2C%5B44.788%2C98.071%2C288.588%2C105.762%5D%2C%5B44.788%2C87.129%2C288.595%2C94.821%5D%2C%5B44.788%2C76.188%2C288.601%2C83.879%5D%2C%5B308.411%2C721.922%2C552.262%2C729.614%5D%2C%5B308.411%2C710.923%2C552.268%2C718.615%5D%2C%5B308.411%2C699.982%2C552.251%2C707.673%5D%2C%5B308.411%2C689.04%2C552.24%2C696.732%5D%2C%5B308.411%2C678.099%2C552.239%2C685.79%5D%2C%5B308.411%2C667.1%2C552.22%2C674.791%5D%2C%5B308.411%2C656.159%2C450.244%2C663.85%5D%2C%5B322.358%2C645.169%2C491.808%2C652.908%5D%2C%5B322.358%2C634.171%2C489.177%2C641.91%5D%2C%5B322.358%2C623.23%2C509.969%2C630.969%5D%2C%5B322.358%2C612.288%2C552.193%2C620.027%5D%2C%5B330.238%2C601.338%2C491.371%2C609.029%5D%2C%5B322.358%2C590.349%2C476.71%2C598.088%5D%2C%5B322.358%2C579.407%2C409.1%2C587.146%5D%2C%5B318.389%2C568.514%2C552.201%2C576.205%5D%2C%5B308.411%2C557.515%2C552.209%2C565.206%5D%2C%5B308.411%2C546.573%2C552.291%2C554.264%5D%2C%5B308.411%2C535.632%2C552.208%2C543.323%5D%2C%5B308.411%2C524.633%2C552.233%2C532.324%5D%2C%5B308.411%2C513.691%2C552.248%2C521.383%5D%2C%5B308.411%2C502.75%2C529.257%2C510.441%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F68WDVFWL%22%5D%2C%22locator%22%3A%22498%22%7D%7D\">“There was a general consensus among this panel of experts on the following points: (i) aging can be slowed by many interventions; (ii) slowing aging typically delays or prevents a range of chronic diseases of old age; (iii) dietary, nutraceutical, and pharmacologic interventions that modulate relevant intracellular signaling pathways and can be considered for human intervention have been identified. Additional potential targets will continue to emerge as research progresses; and (iv) it is now necessary to cautiously proceed to test these interventions in humans. Based on a vote taken on the last day of the workshop, the strategies believed to be most promising by the panel of invited experts and authors of this manuscript are as follows: 1 Pharmacological inhibition of the GH/IGF-1 axis 2 Protein restriction and Fasting Mimicking Diets 3 Pharmacological inhibition of the TOR -S6K pathway 4 Pharmacological regulation of certain sirtuin proteins and the use of spermidine and other epigenetic modulators 5 Pharmacological inhibition of inflammation 6 Chronic metformin use These choices were based in part on: (i) consistent evidence for their pro-longevity effects in simple model organisms and rodents; (ii) evidence for their ability to prevent or delay multiple age-related diseases and conditions; and/or (iii) clinical evidence for their safety in small mammals and/or nonhuman primates. Below, we present the salient points related to each of the promising strategies. Other ideas discussed at the meeting are described elsewhere (Gems, 2014).”</span> <span class=\"citation\" data-citation=\"%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F6482241%2Fitems%2F68WDVFWL%22%5D%2C%22locator%22%3A%22498%22%7D%5D%2C%22properties%22%3A%7B%7D%7D\">(<span class=\"citation-item\">Longo et al., 2015, p. 498</span>)</span></p></div>",
+          "parentItem": "68WDVFWL",
+          "relations": {},
+          "tags": [],
+          "uri": "http://zotero.org/users/6482241/items/MNLA8K9J",
+          "version": 3006
+        }
+      ],
+      "pages": "497-510",
+      "publicationTitle": "Aging Cell",
+      "relations": [],
+      "select": "zotero://select/library/items/68WDVFWL",
+      "shortTitle": "Interventions to Slow Aging in Humans",
+      "tags": [
+        {
+          "tag": "_tablet"
+        }
+      ],
+      "title": "Interventions to Slow Aging in Humans: Are We Ready?",
+      "uri": "http://zotero.org/users/6482241/items/68WDVFWL",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/acel.12338",
+      "version": 3007,
+      "volume": "14"
+    },
+    {
+      "DOI": "10.3390/cells8111446",
+      "ISSN": "2073-4409",
+      "abstractNote": "In contrast to the programmed nature of development, it is still a matter of debate whether aging is an adaptive and regulated process, or merely a consequence arising from a stochastic accumulation of harmful events that culminate in a global state of reduced fitness, risk for disease acquisition, and death. Similarly unanswered are the questions of whether aging is reversible and can be turned into rejuvenation as well as how aging is distinguishable from and influenced by cellular senescence. With the discovery of beneficial aspects of cellular senescence and evidence of senescence being not limited to replicative cellular states, a redefinition of our comprehension of aging and senescence appears scientifically overdue. Here, we provide a factor-based comparison of current knowledge on aging and senescence, which we converge on four suggested concepts, thereby implementing the newly emerging cellular and molecular aspects of geroconversion and amitosenescence, and the signatures of a genetic state termed genosenium. We also address the possibility of an aging-associated secretory phenotype in analogy to the well-characterized senescence-associated secretory phenotype and delineate the impact of epigenetic regulation in aging and senescence. Future advances will elucidate the biological and molecular fingerprints intrinsic to either process.",
+      "accessDate": "2022-05-22T06:43:15Z",
+      "attachments": [
+        {
+          "dateAdded": "2022-05-22T06:43:20Z",
+          "dateModified": "2022-05-22T06:43:21Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/45BMVRN9/Schmeer et al_2019_Dissecting Aging and Senescence—Current Concepts and Open Lessons.pdf",
+          "relations": [],
+          "tags": [],
+          "title": "Schmeer et al_2019_Dissecting Aging and Senescence—Current Concepts and Open Lessons.pdf",
+          "uri": "http://zotero.org/users/6482241/items/45BMVRN9"
+        },
+        {
+          "dateAdded": "2022-05-22T06:43:24Z",
+          "dateModified": "2022-05-22T06:43:24Z",
+          "itemType": "attachment",
+          "path": "/Users/jonmc12/Zotero/storage/L4D28HKK/1446.html",
+          "relations": [],
+          "tags": [],
+          "title": "Snapshot",
+          "uri": "http://zotero.org/users/6482241/items/L4D28HKK"
+        }
+      ],
+      "citationKey": "schmeer2019DissectingAgingSenescence",
+      "citekey": "schmeer2019DissectingAgingSenescence",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Christian",
+          "lastName": "Schmeer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alexandra",
+          "lastName": "Kretz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Diane",
+          "lastName": "Wengerodt"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Milan",
+          "lastName": "Stojiljkovic"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Otto W.",
+          "lastName": "Witte"
+        }
+      ],
+      "date": "2019/11",
+      "dateAdded": "2022-05-22T06:43:15Z",
+      "dateModified": "2022-05-22T06:43:23Z",
+      "extra": "Number: 11\nPublisher: Multidisciplinary Digital Publishing Institute",
+      "issue": "11",
+      "itemID": 1804,
+      "itemKey": "H6WUCTBY",
+      "itemType": "journalArticle",
+      "key": "H6WUCTBY",
+      "language": "en",
+      "libraryCatalog": "www.mdpi.com",
+      "libraryID": 1,
+      "notes": [],
+      "pages": "1446",
+      "publicationTitle": "Cells",
+      "relations": [],
+      "rights": "http://creativecommons.org/licenses/by/3.0/",
+      "select": "zotero://select/library/items/H6WUCTBY",
+      "tags": [
+        {
+          "tag": "aging",
+          "type": 1
+        },
+        {
+          "tag": "amitosenescence",
+          "type": 1
+        },
+        {
+          "tag": "brain",
+          "type": 1
+        },
+        {
+          "tag": "epigenetics",
+          "type": 1
+        },
+        {
+          "tag": "genetic program",
+          "type": 1
+        },
+        {
+          "tag": "inflamm-aging",
+          "type": 1
+        },
+        {
+          "tag": "rejuvenation",
+          "type": 1
+        },
+        {
+          "tag": "replicative senescence",
+          "type": 1
+        }
+      ],
+      "title": "Dissecting Aging and Senescence—Current Concepts and Open Lessons",
+      "uri": "http://zotero.org/users/6482241/items/H6WUCTBY",
+      "url": "https://www.mdpi.com/2073-4409/8/11/1446",
+      "version": 2990,
+      "volume": "8"
+    }
+  ],
+  "version": {
+    "bbt": "6.7.1",
+    "zotero": "6.0.8-beta.4+1e3959020"
+  }
+}
