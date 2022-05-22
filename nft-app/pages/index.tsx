@@ -215,7 +215,7 @@ const Home: NextPage = () => {
             Is Aging is a Controllable Process that can be Slowed & Reversed?
             <Box textStyle="bodyP" py={0} my={0}>
               Note: please{" "}
-              <Link href="mailto:signs-of-life@collectiveframe.com?body=I have ETH to sponsor research.">
+              <Link href="mailto:signs-of-life@collectiveframe.com?body=I have ETH or MATIC to sponsor research.">
                 contact us
               </Link>{" "}
               to sponsor a bounty for this research question or others.
