@@ -188,7 +188,7 @@ const Home: NextPage = () => {
 
         <Box pb={8}>
           Note: see instructions in our{" "}
-          <a href="#">Github Repository</a>{" "}
+          <a href="https://github.com/Collective-Frame/signs-of-life">Github Repository</a>{" "}
           and examples to earn your NFT signature and mint your NFT.
         </Box>
 
