@@ -4,6 +4,9 @@ const nextConfig = {
     reactRoot: true,
     concurrentFeatures: true,
   },
+  images: {
+    domains: ['gateway.ipfscdn.io'],
+  }
 }
 
 module.exports = nextConfig

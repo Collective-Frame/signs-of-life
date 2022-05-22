@@ -12,8 +12,8 @@ import {
 import { ChainId, NFTMetadataOwner, ThirdwebSDK } from "@thirdweb-dev/sdk";
 import type { NextPage } from "next";
 import { useEffect, useRef, useState } from "react";
-import Image from 'next/image'
-import { Box, Input, Stack } from "@chakra-ui/react";
+import Image from "next/image";
+import { Box, Container, Input, Stack } from "@chakra-ui/react";
 
 const Home: NextPage = () => {
   // Helpful thirdweb hooks to connect and manage the wallet from metamask.
@@ -151,7 +151,12 @@ const Home: NextPage = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Image src={`/signsoflife.svg`} alt="Signs of Life Logo" height={100} width={200} />
+              <Image
+                src={`/signsoflife.svg`}
+                alt="Signs of Life Logo"
+                height={100}
+                width={200}
+              />
             </a>
           </div>
         </div>
@@ -181,23 +186,26 @@ const Home: NextPage = () => {
       </div>
 
       <div className={styles.container}>
-        <Box textStyle='h2' py={2}>Mint NFTs for Research</Box>
-        <Box textStyle='explain' py={2}>
-          Community-minted NFTs in exchange for annotating peer reviews of reproducible research
+        <Box textStyle="h2" py={2}>
+          Mint NFTs for Research
+        </Box>
+        <Box textStyle="explain" py={2}>
+          Community-minted NFTs in exchange for annotating peer reviews of
+          reproducible research
         </Box>
 
         <Box pb={8}>
           Note: see instructions in our{" "}
-          <a href="https://github.com/Collective-Frame/signs-of-life">Github Repository</a>{" "}
+          <a href="https://github.com/Collective-Frame/signs-of-life">
+            Github Repository
+          </a>{" "}
           and examples to earn your NFT signature and mint your NFT.
         </Box>
 
         <hr className={styles.divider} />
 
         <Stack spacing={4} py={8}>
-          <Box textStyle={"title"}>
-            Mint your own NFT into the collection:
-          </Box>
+          <Box textStyle={"title"}>Mint your own NFT into the collection:</Box>
 
           <Input
             type="text"
@@ -208,7 +216,6 @@ const Home: NextPage = () => {
           />
 
           <Box>
-
             {file ? (
               <Image
                 className={styles.imageUpload}
@@ -233,7 +240,7 @@ const Home: NextPage = () => {
             )}
           </Box>
         </Stack>
-        
+
         <input
           type="file"
           accept="image/png, image/gif, image/jpeg"
@@ -257,9 +264,7 @@ const Home: NextPage = () => {
         <hr className={styles.smallDivider} />
 
         <div className={styles.collectionContainer}>
-          <h2 className={styles.ourCollection}>
-            Other NFTs in this collection:
-          </h2>
+          <Box textStyle="title">Other NFTs in this collection:</Box>
 
           {loadingNfts ? (
             <p>Loading...</p>
@@ -270,15 +275,21 @@ const Home: NextPage = () => {
                   className={styles.nftItem}
                   key={nft.metadata.id.toString()}
                 >
-                  <div>
-                    <MediaRenderer
-                      src={nft.metadata.image}
-                      style={{
-                        height: 90,
-                        borderRadius: 16,
-                      }}
+                  <Box
+                    pos="relative"
+                    cursor="pointer"
+                    width="90px"
+                    height="90px"
+                  >
+                    <Image
+                      className={styles.nftImage}
+                      src={nft.metadata.image || ""}
+                      alt="NFT Image"
+                      objectFit="cover"
+                      layout="fill"
                     />
-                  </div>
+                  </Box>
+
                   <div style={{ textAlign: "center" }}>
                     <p>Named</p>
                     <p>
