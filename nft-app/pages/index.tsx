@@ -13,7 +13,8 @@ import { ChainId, NFTMetadataOwner, ThirdwebSDK } from "@thirdweb-dev/sdk";
 import type { NextPage } from "next";
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
-import { Box, Container, Input, Stack } from "@chakra-ui/react";
+import { Box, Container, Input, Link, Stack } from "@chakra-ui/react";
+import { ExternalLinkIcon } from "@chakra-ui/icons";
 
 const Home: NextPage = () => {
   // Helpful thirdweb hooks to connect and manage the wallet from metamask.
@@ -190,22 +191,29 @@ const Home: NextPage = () => {
           Mint NFTs for Research
         </Box>
         <Box textStyle="explain" py={2}>
-          Community-minted NFTs in exchange for annotating peer reviews of
-          reproducible research
+          Community-minted NFTs in exchange for semantic literature reviews
         </Box>
 
         <Box pb={8}>
           Note: see instructions in our{" "}
-          <a href="https://github.com/Collective-Frame/signs-of-life">
-            Github Repository
-          </a>{" "}
-          and examples to earn your NFT signature and mint your NFT.
+          <Link color="teal.500" href="https://github.com/Collective-Frame/signs-of-life">
+            Github Repository <ExternalLinkIcon mb='0.25rem' />
+          </Link>{" "}
+          and examples to earn your NFT signature and mint your NFTs.
         </Box>
 
         <hr className={styles.divider} />
 
         <Stack spacing={4} py={8}>
-          <Box textStyle={"title"}>Mint your own NFT into the collection:</Box>
+          <Box textStyle={"title"}>
+            Mint your own NFT into the{" "}
+            {
+              <Link color="teal.500" href="https://mumbai.polygonscan.com/address/0xEA08a02bc6Bf07Ad117e0BA569C948525f2BcCA0" isExternal>
+                collection <ExternalLinkIcon mb='0.4rem' />
+              </Link>
+            }
+            :
+          </Box>
 
           <Input
             type="text"
