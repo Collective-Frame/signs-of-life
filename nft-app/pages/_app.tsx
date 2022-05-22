@@ -40,7 +40,7 @@ const theme = extendTheme({
       fontSize: ['1.25rem', '1.3rem'],
     },
     bodyP: {
-      fontSize: ['1.125rem', '1.2rem'],
+      fontSize: ['1rem', '1rem'],
     },
     headerP: {
       color: '#e6e6e6',

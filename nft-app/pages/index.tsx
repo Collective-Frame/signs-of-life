@@ -209,24 +209,30 @@ const Home: NextPage = () => {
 
         <Stack spacing={4} py={8}>
           <Box textStyle="explain" py={0}>
-            This week's research question: <br /> 
+            This week's research question: <br />
           </Box>
           <Box textStyle={"title"}>
             Is Aging is a Controllable Process that can be Slowed & Reversed?
+            <Box textStyle="bodyP" py={0} my={0}>
+              Note: please{" "}
+              <Link href="mailto:signs-of-life@collectiveframe.com?body=I have ETH to sponsor research.">
+                contact us
+              </Link>{" "}
+              to sponsor a bounty for this research question or others.
+            </Box>
           </Box>
 
-          <Box textStyle="explain" pb={4}>
-            Mint your own NFT into the{" "}
+          <Box textStyle="explain" py={4}>
+            Below, mint your own NFT into{" "}
             {
               <Link
                 color="teal.500"
                 href="https://mumbai.polygonscan.com/address/0xEA08a02bc6Bf07Ad117e0BA569C948525f2BcCA0"
                 isExternal
               >
-                collection <ExternalLinkIcon mb="0.4rem" />
+                the collection <ExternalLinkIcon mb="0.4rem" />
               </Link>
             }
-            .
           </Box>
 
           <Input
