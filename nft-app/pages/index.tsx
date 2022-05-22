@@ -209,7 +209,7 @@ const Home: NextPage = () => {
 
         <Stack spacing={4} py={8}>
           <Box textStyle="explain" py={0}>
-            This week's research question: <br />
+            This week&apos;s research question: <br />
           </Box>
           <Box textStyle={"title"}>
             Is Aging is a Controllable Process that can be Slowed & Reversed?
